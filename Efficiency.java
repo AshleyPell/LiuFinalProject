@@ -106,6 +106,77 @@ public class Efficiency
 		
 	}
 	
+	public static void setNewValues(float[] ef,  float[] r1,  float[] r2,  float[] r3,
+			 float[] r4,  float[] r5, int splSize)  // will generate the sets that need to be run more than once 
+	{
+		Random rand = new Random(); // random number generator
+		float num = 0; 
+		for(int i = 0; i < splSize; i++)
+		{
+			if(i%5 == 0) 
+			{
+				ef[i] = (float)2575.5; // sets every fifth element to 2575.5
+			}
+			else
+			{
+				num = rand.nextFloat();
+				ef[i] = num; // sets all other elements to a random value
+			}
+			
+		}
+		int count = 0;
+		while(count < splSize)
+		{
+			 num = rand.nextFloat();
+			 if(!contains(r1, num)) // this will guarantee that there are no
+			 {							// repeat numbers 
+				 r1[count] = num;
+				 count++;
+			 }
+		}
+		count = 0;
+		while(count < splSize)
+		{
+			 num = rand.nextFloat();
+			 if(!contains(r2, num)) // this will guarantee that there are no
+			 {							// repeat numbers 
+				 r2[count] = num;
+				 count++;
+			 }
+		}
+		count = 0;
+		while(count < splSize)
+		{
+			 num = rand.nextFloat();
+			 if(!contains(r3, num)) // this will guarantee that there are no
+			 {							// repeat numbers 
+				 r3[count] = num;
+				 count++;
+			 }
+		}
+		count = 0;
+		while(count < splSize)
+		{
+			 num = rand.nextFloat();
+			 if(!contains(r4, num)) // this will guarantee that there are no
+			 {							// repeat numbers 
+				 r4[count] = num;
+				 count++;
+			 }
+		}
+		count = 0;
+		while(count < splSize)
+		{
+			 num = rand.nextFloat();
+			 if(!contains(r5, num)) // this will guarantee that there are no
+			 {							// repeat numbers 
+				 r5[count] = num;
+				 count++;
+			 }
+		}
+		
+	}
+	
 	public static void BubbleSort(float arr[])
     {
         int n = arr.length;
@@ -242,16 +313,6 @@ public class Efficiency
 		 
 		 for(int ss: sampleSize)
 		 {
-			 /*ArrayList<Float>  ascend = new ArrayList<Float>(); // holds the ascending order set 
-			 ArrayList<Float>  descend = new ArrayList<Float>(); // holds the descending order set
-			 ArrayList<Float>  repeat = new ArrayList<Float>(); // holds the set with all the same value 
-			 ArrayList<Float>  everyOther = new ArrayList<Float>(); // holds set with every other value repeating
-			 ArrayList<Float>  everyFifth = new ArrayList<Float>(); // holds the set with every fifth value repeating
-			 ArrayList<Float>  rand1 = new ArrayList<Float>(); // these hold the 5 all random sets 
-			 ArrayList<Float>  rand2 = new ArrayList<Float>();
-			 ArrayList<Float>  rand3 = new ArrayList<Float>();
-			 ArrayList<Float>  rand4 = new ArrayList<Float>();
-			 ArrayList<Float>  rand5 = new ArrayList<Float>();*/
 			 
 			 float[]  ascend = new float[ss]; // holds the ascending order set 
 			 float[]  descend = new float[ss]; // holds the descending order set
@@ -263,6 +324,8 @@ public class Efficiency
 			 float[]  rand3 = new float[ss];
 			 float[]  rand4 = new float[ss];
 			 float[]  rand5 = new float[ss];
+			 
+			 int count = 0;
 			 
 			 setValues(ascend, descend, repeat, everyOther, everyFifth, rand1, rand2, rand3, rand4, rand5, ss);
 			 start = System.nanoTime();
@@ -282,30 +345,38 @@ public class Efficiency
 			 BubbleSort(everyOther);
 			 end = System.nanoTime();
 			 System.out.printf("The run time for BubbleSort of Every other element repeating set size %d : %d  \n", ss, (end - start));
-			 start = System.nanoTime();
-			 BubbleSort(everyFifth);
-			 end = System.nanoTime();
-			 System.out.printf("The run time for BubbleSort of every fifth element repeating set size %d : %d  \n", ss, (end - start));
-			 start = System.nanoTime();
-			 BubbleSort(rand1);
-			 end = System.nanoTime();
-			 System.out.printf("The run time for BubbleSort of randomly generated set 1 size %d : %d  \n", ss, (end - start));
-			 start = System.nanoTime();
-			 BubbleSort(rand2);
-			 end = System.nanoTime();
-			 System.out.printf("The run time for BubbleSort of randomly generated set 2 size %d : %d  \n", ss, (end - start));
-			 start = System.nanoTime();
-			 BubbleSort(rand3);
-			 end = System.nanoTime();
-			 System.out.printf("The run time for BubbleSort of randomly generated set 3 size %d : %d  \n", ss, (end - start));
-			 start = System.nanoTime();
-			 BubbleSort(rand4);
-			 end = System.nanoTime();
-			 System.out.printf("The run time for BubbleSort of randomly generated set 4 size %d : %d  \n", ss, (end - start));
-			 start = System.nanoTime();
-			 BubbleSort(rand5);
-			 end = System.nanoTime();
-			 System.out.printf("The run time for BubbleSort of randomly generated set 5 size %d : %d \n", ss, (end - start));
+			 do
+			 {
+				 start = System.nanoTime();
+				 BubbleSort(everyFifth);
+				 end = System.nanoTime();
+				 System.out.printf("The run time for BubbleSort of every fifth element repeating set size %d : %d  \n", ss, (end - start));
+				 start = System.nanoTime();
+				 BubbleSort(rand1);
+				 end = System.nanoTime();
+				 System.out.printf("The run time for BubbleSort of randomly generated set 1 size %d : %d  \n", ss, (end - start));
+				 start = System.nanoTime();
+				 BubbleSort(rand2);
+				 end = System.nanoTime();
+				 System.out.printf("The run time for BubbleSort of randomly generated set 2 size %d : %d  \n", ss, (end - start));
+				 start = System.nanoTime();
+				 BubbleSort(rand3);
+				 end = System.nanoTime();
+				 System.out.printf("The run time for BubbleSort of randomly generated set 3 size %d : %d  \n", ss, (end - start));
+				 start = System.nanoTime();
+				 BubbleSort(rand4);
+				 end = System.nanoTime();
+				 System.out.printf("The run time for BubbleSort of randomly generated set 4 size %d : %d  \n", ss, (end - start));
+				 start = System.nanoTime();
+				 BubbleSort(rand5);
+				 end = System.nanoTime();
+				 System.out.printf("The run time for BubbleSort of randomly generated set 5 size %d : %d \n", ss, (end - start));
+				 System.out.printf("\n \n The Current Run Count is : %d \n\n", count);
+				 setNewValues(everyFifth, rand1, rand2, rand3, rand4, rand5, ss);
+				 count++;
+			 }
+			 while(count < 10);
+			
 			 
 			 System.out.print("\n \n \n");
 			 
@@ -324,30 +395,40 @@ public class Efficiency
 			 SelectionSort(everyOther);
 			 end = System.nanoTime();
 			 System.out.printf("The run time for SelectionSort of Every other element repeating set size %d : %d  \n", ss, (end - start));
-			 start = System.nanoTime();
-			 SelectionSort(everyFifth);
-			 end = System.nanoTime();
-			 System.out.printf("The run time for SelectionSort of every fifth element repeating set size %d : %d  \n", ss, (end - start));
-			 start = System.nanoTime();
-			 SelectionSort(rand1);
-			 end = System.nanoTime();
-			 System.out.printf("The run time for SelectionSort of randomly generated set 1 size %d : %d  \n", ss, (end - start));
-			 start = System.nanoTime();
-			 SelectionSort(rand2);
-			 end = System.nanoTime();
-			 System.out.printf("The run time for SelectionSort of randomly generated set 2 size %d : %d  \n", ss, (end - start));
-			 start = System.nanoTime();
-			 SelectionSort(rand3);
-			 end = System.nanoTime();
-			 System.out.printf("The run time for SelectionSort of randomly generated set 3 size %d : %d  \n", ss, (end - start));
-			 start = System.nanoTime();
-			 SelectionSort(rand4);
-			 end = System.nanoTime();
-			 System.out.printf("The run time for SelectionSort of randomly generated set 4 size %d : %d  \n", ss, (end - start));
-			 start = System.nanoTime();
-			 SelectionSort(rand5);
-			 end = System.nanoTime();
-			 System.out.printf("The run time for SelectionSort of randomly generated set 5 size %d : %d  \n", ss, (end - start));
+			 
+			 count = 0;
+			 do
+			 {
+				 start = System.nanoTime();
+				 SelectionSort(everyFifth);
+				 end = System.nanoTime();
+				 System.out.printf("The run time for SelectionSort of every fifth element repeating set size %d : %d  \n", ss, (end - start));
+				 start = System.nanoTime();
+				 SelectionSort(rand1);
+				 end = System.nanoTime();
+				 System.out.printf("The run time for SelectionSort of randomly generated set 1 size %d : %d  \n", ss, (end - start));
+				 start = System.nanoTime();
+				 SelectionSort(rand2);
+				 end = System.nanoTime();
+				 System.out.printf("The run time for SelectionSort of randomly generated set 2 size %d : %d  \n", ss, (end - start));
+				 start = System.nanoTime();
+				 SelectionSort(rand3);
+				 end = System.nanoTime();
+				 System.out.printf("The run time for SelectionSort of randomly generated set 3 size %d : %d  \n", ss, (end - start));
+				 start = System.nanoTime();
+				 SelectionSort(rand4);
+				 end = System.nanoTime();
+				 System.out.printf("The run time for SelectionSort of randomly generated set 4 size %d : %d  \n", ss, (end - start));
+				 start = System.nanoTime();
+				 SelectionSort(rand5);
+				 end = System.nanoTime();
+				 System.out.printf("The run time for SelectionSort of randomly generated set 5 size %d : %d  \n", ss, (end - start));
+
+				 System.out.printf("\n \n The Current Run Count is : %d \n\n", count);
+				 setNewValues(everyFifth, rand1, rand2, rand3, rand4, rand5, ss);
+				 count++;
+			 }
+			 while(count < 10);
 			 
 			 System.out.print("\n \n \n");
 			 
@@ -366,30 +447,41 @@ public class Efficiency
 			 InsertionSort(everyOther);
 			 end = System.nanoTime();
 			 System.out.printf("The run time for InsertionSort of Every other element repeating set size %d :  %d  \n", ss, (end - start));
-			 start = System.nanoTime();
-			 InsertionSort(everyFifth);
-			 end = System.nanoTime();
-			 System.out.printf("The run time for InsertionSort of every fifth element repeating set size %d :  %d  \n", ss, (end - start));
-			 start = System.nanoTime();
-			 InsertionSort(rand1);
-			 end = System.nanoTime();
-			 System.out.printf("The run time for InsertionSort of randomly generated set 1 size %d :  %d  \n", ss, (end - start));
-			 start = System.nanoTime();
-			 InsertionSort(rand2);
-			 end = System.nanoTime();
-			 System.out.printf("The run time for InsertionSort of randomly generated set 2 size %d :  %d  \n", ss, (end - start));
-			 start = System.nanoTime();
-			 InsertionSort(rand3);
-			 end = System.nanoTime();
-			 System.out.printf("The run time for InsertionSort of randomly generated set 3 size %d :  %d  \n", ss, (end - start));
-			 start = System.nanoTime();
-			 InsertionSort(rand4);
-			 end = System.nanoTime();
-			 System.out.printf("The run time for InsertionSort of randomly generated set 4 size %d :  %d  \n", ss, (end - start));
-			 start = System.nanoTime();
-			 InsertionSort(rand5);
-			 end = System.nanoTime();
-			 System.out.printf("The run time for InsertionSort of randomly generated set 5 size %d :  %d  \n", ss, (end - start));
+			 
+			 count = 0;
+			 do
+			 {
+				 start = System.nanoTime();
+				 InsertionSort(everyFifth);
+				 end = System.nanoTime();
+				 System.out.printf("The run time for InsertionSort of every fifth element repeating set size %d :  %d  \n", ss, (end - start));
+				 start = System.nanoTime();
+				 InsertionSort(rand1);
+				 end = System.nanoTime();
+				 System.out.printf("The run time for InsertionSort of randomly generated set 1 size %d :  %d  \n", ss, (end - start));
+				 start = System.nanoTime();
+				 InsertionSort(rand2);
+				 end = System.nanoTime();
+				 System.out.printf("The run time for InsertionSort of randomly generated set 2 size %d :  %d  \n", ss, (end - start));
+				 start = System.nanoTime();
+				 InsertionSort(rand3);
+				 end = System.nanoTime();
+				 System.out.printf("The run time for InsertionSort of randomly generated set 3 size %d :  %d  \n", ss, (end - start));
+				 start = System.nanoTime();
+				 InsertionSort(rand4);
+				 end = System.nanoTime();
+				 System.out.printf("The run time for InsertionSort of randomly generated set 4 size %d :  %d  \n", ss, (end - start));
+				 start = System.nanoTime();
+				 InsertionSort(rand5);
+				 end = System.nanoTime();
+				 System.out.printf("The run time for InsertionSort of randomly generated set 5 size %d :  %d  \n", ss, (end - start));
+				 
+				 System.out.printf("\n \n The Current Run Count is : %d \n\n", count);
+				 setNewValues(everyFifth, rand1, rand2, rand3, rand4, rand5, ss);
+				 count++;
+				 
+			 }
+			 while(count < 10);
 			 
 			 System.out.print("\n \n \n");
 			 
@@ -408,75 +500,94 @@ public class Efficiency
 			 MergeSort(everyOther, 0, everyOther.length - 1);
 			 end = System.nanoTime();
 			 System.out.printf("The run time for MergeSort of Every other element repeating set size %d :  %d  \n", ss, (end - start));
-			 start = System.nanoTime();
-			 MergeSort(everyFifth, 0, everyFifth.length - 1);
-			 end = System.nanoTime();
-			 System.out.printf("The run time for MergeSort of every fifth element repeating set size %d :  %d  \n", ss, (end - start));
-			 start = System.nanoTime();
-			 MergeSort(rand1, 0, rand1.length - 1);
-			 end = System.nanoTime();
-			 System.out.printf("The run time for MergeSort of randomly generated set 1 size %d :  %d  \n", ss, (end - start));
-			 start = System.nanoTime();
-			 MergeSort(rand2, 0, rand2.length - 1);
-			 end = System.nanoTime();
-			 System.out.printf("The run time for MergeSort of randomly generated set 2 size %d :  %d  \n", ss, (end - start));
-			 start = System.nanoTime();
-			 MergeSort(rand3, 0, rand3.length - 1);
-			 end = System.nanoTime();
-			 System.out.printf("The run time for MergeSort of randomly generated set 3 size %d :  %d  \n", ss, (end - start));
-			 start = System.nanoTime();
-			 MergeSort(rand4, 0, rand4.length - 1);
-			 end = System.nanoTime();
-			 System.out.printf("The run time for MergeSort of randomly generated set 4 size %d :  %d  \n", ss, (end - start));
-			 start = System.nanoTime();
-			 MergeSort(rand5, 0, rand5.length - 1);
-			 end = System.nanoTime();
-			 System.out.printf("The run time for MergeSort of randomly generated set 5 size %d :  %d  \n", ss, (end - start));
+			 
+			 count = 0;
+			 do
+			 {
+				 start = System.nanoTime();
+				 MergeSort(everyFifth, 0, everyFifth.length - 1);
+				 end = System.nanoTime();
+				 System.out.printf("The run time for MergeSort of every fifth element repeating set size %d :  %d  \n", ss, (end - start));
+				 start = System.nanoTime();
+				 MergeSort(rand1, 0, rand1.length - 1);
+				 end = System.nanoTime();
+				 System.out.printf("The run time for MergeSort of randomly generated set 1 size %d :  %d  \n", ss, (end - start));
+				 start = System.nanoTime();
+				 MergeSort(rand2, 0, rand2.length - 1);
+				 end = System.nanoTime();
+				 System.out.printf("The run time for MergeSort of randomly generated set 2 size %d :  %d  \n", ss, (end - start));
+				 start = System.nanoTime();
+				 MergeSort(rand3, 0, rand3.length - 1);
+				 end = System.nanoTime();
+				 System.out.printf("The run time for MergeSort of randomly generated set 3 size %d :  %d  \n", ss, (end - start));
+				 start = System.nanoTime();
+				 MergeSort(rand4, 0, rand4.length - 1);
+				 end = System.nanoTime();
+				 System.out.printf("The run time for MergeSort of randomly generated set 4 size %d :  %d  \n", ss, (end - start));
+				 start = System.nanoTime();
+				 MergeSort(rand5, 0, rand5.length - 1);
+				 end = System.nanoTime();
+				 System.out.printf("The run time for MergeSort of randomly generated set 5 size %d :  %d  \n", ss, (end - start));
+				 
+				 System.out.printf("\n \n The Current Run Count is : %d \n\n", count);
+				 setNewValues(everyFifth, rand1, rand2, rand3, rand4, rand5, ss);
+				 count++;
+				 
+			 }
+			 while(count < 10);
 			 
 			 System.out.print("\n \n \n");
 			 
-			/*QuickSort(ascend);
+			 /*QuickSort(ascend);
 			 end = System.nanoTime();
 			 System.out.printf("The run time for QuickSort of Ascensing order set size %d : %f", ss, (end - start));
 			 start = System.nanoTime();
-			 //QuickSort(descend);
+			 QuickSort(descend);
 			 end = System.nanoTime();
 			 System.out.printf("The run time for QuickSort of Descending order set size %d : %f", ss, (end - start));
 			 start = System.nanoTime();
-			 //QuickSort(repeat);
+			 QuickSort(repeat);
 			 end = System.nanoTime();
 			 System.out.printf("The run time for QuickSort of Repeating set size %d : %f", ss, (end - start));
 			 start = System.nanoTime();
-			 //QuickSort(everyOther);
+			 QuickSort(everyOther);
 			 end = System.nanoTime();
 			 System.out.printf("The run time for QuickSort of Every other element repeating set size %d : %f", ss, (end - start));
-			 start = System.nanoTime();
-			 //QuickSort(everyFifth);
-			 end = System.nanoTime();
-			 System.out.printf("The run time for QuickSort of every fifth element repeating set size %d : %f", ss, (end - start));
-			 start = System.nanoTime();
-			 //QuickSort(rand1);
-			 end = System.nanoTime();
-			 System.out.printf("The run time for QuickSort of randomly generated set 1 size %d : %f", ss, (end - start));
-			 start = System.nanoTime();
-			 //QuickSort(rand2);
-			 end = System.nanoTime();
-			 System.out.printf("The run time for QuickSort of randomly generated set 2 size %d : %f", ss, (end - start));
-			 start = System.nanoTime();
-			 //QuickSort(rand3);
-			 end = System.nanoTime();
-			 System.out.printf("The run time for QuickSort of randomly generated set 3 size %d : %f", ss, (end - start));
-			 start = System.nanoTime();
-			 //QuickSort(rand4);
-			 end = System.nanoTime();
-			 System.out.printf("The run time for QuickSort of randomly generated set 4 size %d : %f", ss, (end - start));
-			 start = System.nanoTime();
-			 //QuickSort(rand5);
-			 end = System.nanoTime();
-			 System.out.printf("The run time for QuickSort of randomly generated set 5 size %d : %f", ss, (end - start));*/
-			 
-			 
-			 
+
+			 count = 0;
+			 do
+			 {
+				 start = System.nanoTime();
+				 QuickSort(everyFifth);
+				 end = System.nanoTime();
+				 System.out.printf("The run time for QuickSort of every fifth element repeating set size %d : %f", ss, (end - start));
+				 start = System.nanoTime();
+				 QuickSort(rand1);
+				 end = System.nanoTime();
+				 System.out.printf("The run time for QuickSort of randomly generated set 1 size %d : %f", ss, (end - start));
+				 start = System.nanoTime();
+				 QuickSort(rand2);
+				 end = System.nanoTime();
+				 System.out.printf("The run time for QuickSort of randomly generated set 2 size %d : %f", ss, (end - start));
+				 start = System.nanoTime();
+				 QuickSort(rand3);
+				 end = System.nanoTime();
+				 System.out.printf("The run time for QuickSort of randomly generated set 3 size %d : %f", ss, (end - start));
+				 start = System.nanoTime();
+				 QuickSort(rand4);
+				 end = System.nanoTime();
+				 System.out.printf("The run time for QuickSort of randomly generated set 4 size %d : %f", ss, (end - start));
+				 start = System.nanoTime();
+				 QuickSort(rand5);
+				 end = System.nanoTime();
+				 System.out.printf("The run time for QuickSort of randomly generated set 5 size %d : %f", ss, (end - start));
+
+				 System.out.printf("\n \n The Current Run Count is : %d \n\n", count);
+				 setNewValues(everyFifth, rand1, rand2, rand3, rand4, rand5, ss);
+				 count++;
+			 }
+			 while(count < 10);*/
+
 		 }
 
 	}
