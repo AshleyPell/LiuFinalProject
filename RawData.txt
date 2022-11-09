@@ -1723,16 +1723,5 @@ The run time for SelectionSort of randomly generated set 4 size 500000 : 82.478 
 The run time for SelectionSort of randomly generated set 5 size 500000 : 82.491  Seconds
 
  
-The Current Run Count is : 1 
-
-The run time for SelectionSort of every fifth element repeating set size 500000 : 87.131  Seconds
-The run time for SelectionSort of randomly generated set 1 size 500000 : 89.141  Seconds
-The run time for SelectionSort of randomly generated set 2 size 500000 : 91.786  Seconds
-The run time for SelectionSort of randomly generated set 3 size 500000 : 88.522  Seconds
-The run time for SelectionSort of randomly generated set 4 size 500000 : 89.433  Seconds
-The run time for SelectionSort of randomly generated set 5 size 500000 : 93.898  Seconds
-
- 
- The Current Run Count is : 2 
-
+ The Current Run Count is : 1 
 
