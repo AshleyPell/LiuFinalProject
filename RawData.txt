@@ -1,0 +1,1727 @@
+The run time for BubbleSort of Ascensing order set size 10000 : 0.024  Seconds
+The run time for BubbleSort of Descending order set size 10000 : 0.107 Seconds
+The run time for BubbleSort of Repeating set size 10000 : 0.035  Seconds
+The run time for BubbleSort of Every other element repeating set size 10000 : 0.097  Seconds
+The run time for BubbleSort of every fifth element repeating set size 10000 : 0.098  Seconds
+The run time for BubbleSort of randomly generated set 1 size 10000 : 0.127  Seconds
+The run time for BubbleSort of randomly generated set 2 size 10000 : 0.122  Seconds
+The run time for BubbleSort of randomly generated set 3 size 10000 : 0.135  Seconds
+The run time for BubbleSort of randomly generated set 4 size 10000 : 0.121  Seconds
+The run time for BubbleSort of randomly generated set 5 size 10000 : 0.137 Seconds
+
+ 
+ The Current Run Count is : 0 
+
+The run time for BubbleSort of every fifth element repeating set size 10000 : 0.085  Seconds
+The run time for BubbleSort of randomly generated set 1 size 10000 : 0.109  Seconds
+The run time for BubbleSort of randomly generated set 2 size 10000 : 0.112  Seconds
+The run time for BubbleSort of randomly generated set 3 size 10000 : 0.123  Seconds
+The run time for BubbleSort of randomly generated set 4 size 10000 : 0.124  Seconds
+The run time for BubbleSort of randomly generated set 5 size 10000 : 0.121 Seconds
+
+ 
+ The Current Run Count is : 1 
+
+The run time for BubbleSort of every fifth element repeating set size 10000 : 0.084  Seconds
+The run time for BubbleSort of randomly generated set 1 size 10000 : 0.103  Seconds
+The run time for BubbleSort of randomly generated set 2 size 10000 : 0.106  Seconds
+The run time for BubbleSort of randomly generated set 3 size 10000 : 0.102  Seconds
+The run time for BubbleSort of randomly generated set 4 size 10000 : 0.124  Seconds
+The run time for BubbleSort of randomly generated set 5 size 10000 : 0.125 Seconds
+
+ 
+ The Current Run Count is : 2 
+
+The run time for BubbleSort of every fifth element repeating set size 10000 : 0.085  Seconds
+The run time for BubbleSort of randomly generated set 1 size 10000 : 0.112  Seconds
+The run time for BubbleSort of randomly generated set 2 size 10000 : 0.118  Seconds
+The run time for BubbleSort of randomly generated set 3 size 10000 : 0.135  Seconds
+The run time for BubbleSort of randomly generated set 4 size 10000 : 0.121  Seconds
+The run time for BubbleSort of randomly generated set 5 size 10000 : 0.122 Seconds
+
+ 
+ The Current Run Count is : 3 
+
+The run time for BubbleSort of every fifth element repeating set size 10000 : 0.085  Seconds
+The run time for BubbleSort of randomly generated set 1 size 10000 : 0.101  Seconds
+The run time for BubbleSort of randomly generated set 2 size 10000 : 0.116  Seconds
+The run time for BubbleSort of randomly generated set 3 size 10000 : 0.120  Seconds
+The run time for BubbleSort of randomly generated set 4 size 10000 : 0.134  Seconds
+The run time for BubbleSort of randomly generated set 5 size 10000 : 0.121 Seconds
+
+ 
+ The Current Run Count is : 4 
+
+The run time for BubbleSort of every fifth element repeating set size 10000 : 0.085  Seconds
+The run time for BubbleSort of randomly generated set 1 size 10000 : 0.112  Seconds
+The run time for BubbleSort of randomly generated set 2 size 10000 : 0.116  Seconds
+The run time for BubbleSort of randomly generated set 3 size 10000 : 0.121  Seconds
+The run time for BubbleSort of randomly generated set 4 size 10000 : 0.118  Seconds
+The run time for BubbleSort of randomly generated set 5 size 10000 : 0.123 Seconds
+
+ 
+ The Current Run Count is : 5 
+
+The run time for BubbleSort of every fifth element repeating set size 10000 : 0.084  Seconds
+The run time for BubbleSort of randomly generated set 1 size 10000 : 0.102  Seconds
+The run time for BubbleSort of randomly generated set 2 size 10000 : 0.115  Seconds
+The run time for BubbleSort of randomly generated set 3 size 10000 : 0.118  Seconds
+The run time for BubbleSort of randomly generated set 4 size 10000 : 0.119  Seconds
+The run time for BubbleSort of randomly generated set 5 size 10000 : 0.119 Seconds
+
+ 
+ The Current Run Count is : 6 
+
+The run time for BubbleSort of every fifth element repeating set size 10000 : 0.086  Seconds
+The run time for BubbleSort of randomly generated set 1 size 10000 : 0.111  Seconds
+The run time for BubbleSort of randomly generated set 2 size 10000 : 0.117  Seconds
+The run time for BubbleSort of randomly generated set 3 size 10000 : 0.120  Seconds
+The run time for BubbleSort of randomly generated set 4 size 10000 : 0.125  Seconds
+The run time for BubbleSort of randomly generated set 5 size 10000 : 0.120 Seconds
+
+ 
+ The Current Run Count is : 7 
+
+The run time for BubbleSort of every fifth element repeating set size 10000 : 0.084  Seconds
+The run time for BubbleSort of randomly generated set 1 size 10000 : 0.101  Seconds
+The run time for BubbleSort of randomly generated set 2 size 10000 : 0.116  Seconds
+The run time for BubbleSort of randomly generated set 3 size 10000 : 0.119  Seconds
+The run time for BubbleSort of randomly generated set 4 size 10000 : 0.119  Seconds
+The run time for BubbleSort of randomly generated set 5 size 10000 : 0.118 Seconds
+
+ 
+ The Current Run Count is : 8 
+
+The run time for BubbleSort of every fifth element repeating set size 10000 : 0.084  Seconds
+The run time for BubbleSort of randomly generated set 1 size 10000 : 0.117  Seconds
+The run time for BubbleSort of randomly generated set 2 size 10000 : 0.116  Seconds
+The run time for BubbleSort of randomly generated set 3 size 10000 : 0.117  Seconds
+The run time for BubbleSort of randomly generated set 4 size 10000 : 0.118  Seconds
+The run time for BubbleSort of randomly generated set 5 size 10000 : 0.121 Seconds
+
+ 
+ The Current Run Count is : 9 
+
+
+ 
+ 
+The run time for SelectionSort of Ascensing order set size 10000 : 0.476  Seconds
+The run time for SelectionSort of Descending order set size 10000 : 0.023  Seconds
+The run time for SelectionSort of Repeating set size 10000 : 0.023  Seconds
+The run time for SelectionSort of Every other element repeating set size 10000 : 0.016  Seconds
+The run time for SelectionSort of every fifth element repeating set size 10000 : 0.100  Seconds
+The run time for SelectionSort of randomly generated set 1 size 10000 : 0.038  Seconds
+The run time for SelectionSort of randomly generated set 2 size 10000 : 0.080  Seconds
+The run time for SelectionSort of randomly generated set 3 size 10000 : 0.077  Seconds
+The run time for SelectionSort of randomly generated set 4 size 10000 : 0.080  Seconds
+The run time for SelectionSort of randomly generated set 5 size 10000 : 0.079  Seconds
+
+ 
+ The Current Run Count is : 0 
+
+The run time for SelectionSort of every fifth element repeating set size 10000 : 0.073  Seconds
+The run time for SelectionSort of randomly generated set 1 size 10000 : 0.079  Seconds
+The run time for SelectionSort of randomly generated set 2 size 10000 : 0.040  Seconds
+The run time for SelectionSort of randomly generated set 3 size 10000 : 0.040  Seconds
+The run time for SelectionSort of randomly generated set 4 size 10000 : 0.043  Seconds
+The run time for SelectionSort of randomly generated set 5 size 10000 : 0.035  Seconds
+
+ 
+ The Current Run Count is : 1 
+
+The run time for SelectionSort of every fifth element repeating set size 10000 : 0.032  Seconds
+The run time for SelectionSort of randomly generated set 1 size 10000 : 0.037  Seconds
+The run time for SelectionSort of randomly generated set 2 size 10000 : 0.041  Seconds
+The run time for SelectionSort of randomly generated set 3 size 10000 : 0.042  Seconds
+The run time for SelectionSort of randomly generated set 4 size 10000 : 0.041  Seconds
+The run time for SelectionSort of randomly generated set 5 size 10000 : 0.041  Seconds
+
+ 
+ The Current Run Count is : 2 
+
+The run time for SelectionSort of every fifth element repeating set size 10000 : 0.033  Seconds
+The run time for SelectionSort of randomly generated set 1 size 10000 : 0.038  Seconds
+The run time for SelectionSort of randomly generated set 2 size 10000 : 0.040  Seconds
+The run time for SelectionSort of randomly generated set 3 size 10000 : 0.040  Seconds
+The run time for SelectionSort of randomly generated set 4 size 10000 : 0.042  Seconds
+The run time for SelectionSort of randomly generated set 5 size 10000 : 0.042  Seconds
+
+ 
+ The Current Run Count is : 3 
+
+The run time for SelectionSort of every fifth element repeating set size 10000 : 0.033  Seconds
+The run time for SelectionSort of randomly generated set 1 size 10000 : 0.040  Seconds
+The run time for SelectionSort of randomly generated set 2 size 10000 : 0.042  Seconds
+The run time for SelectionSort of randomly generated set 3 size 10000 : 0.040  Seconds
+The run time for SelectionSort of randomly generated set 4 size 10000 : 0.044  Seconds
+The run time for SelectionSort of randomly generated set 5 size 10000 : 0.040  Seconds
+
+ 
+ The Current Run Count is : 4 
+
+The run time for SelectionSort of every fifth element repeating set size 10000 : 0.033  Seconds
+The run time for SelectionSort of randomly generated set 1 size 10000 : 0.040  Seconds
+The run time for SelectionSort of randomly generated set 2 size 10000 : 0.039  Seconds
+The run time for SelectionSort of randomly generated set 3 size 10000 : 0.049  Seconds
+The run time for SelectionSort of randomly generated set 4 size 10000 : 0.057  Seconds
+The run time for SelectionSort of randomly generated set 5 size 10000 : 0.041  Seconds
+
+ 
+ The Current Run Count is : 5 
+
+The run time for SelectionSort of every fifth element repeating set size 10000 : 0.032  Seconds
+The run time for SelectionSort of randomly generated set 1 size 10000 : 0.039  Seconds
+The run time for SelectionSort of randomly generated set 2 size 10000 : 0.041  Seconds
+The run time for SelectionSort of randomly generated set 3 size 10000 : 0.039  Seconds
+The run time for SelectionSort of randomly generated set 4 size 10000 : 0.043  Seconds
+The run time for SelectionSort of randomly generated set 5 size 10000 : 0.041  Seconds
+
+ 
+ The Current Run Count is : 6 
+
+The run time for SelectionSort of every fifth element repeating set size 10000 : 0.033  Seconds
+The run time for SelectionSort of randomly generated set 1 size 10000 : 0.039  Seconds
+The run time for SelectionSort of randomly generated set 2 size 10000 : 0.040  Seconds
+The run time for SelectionSort of randomly generated set 3 size 10000 : 0.051  Seconds
+The run time for SelectionSort of randomly generated set 4 size 10000 : 0.035  Seconds
+The run time for SelectionSort of randomly generated set 5 size 10000 : 0.047  Seconds
+
+ 
+ The Current Run Count is : 7 
+
+The run time for SelectionSort of every fifth element repeating set size 10000 : 0.036  Seconds
+The run time for SelectionSort of randomly generated set 1 size 10000 : 0.039  Seconds
+The run time for SelectionSort of randomly generated set 2 size 10000 : 0.042  Seconds
+The run time for SelectionSort of randomly generated set 3 size 10000 : 0.041  Seconds
+The run time for SelectionSort of randomly generated set 4 size 10000 : 0.044  Seconds
+The run time for SelectionSort of randomly generated set 5 size 10000 : 0.040  Seconds
+
+ 
+ The Current Run Count is : 8 
+
+The run time for SelectionSort of every fifth element repeating set size 10000 : 0.033  Seconds
+The run time for SelectionSort of randomly generated set 1 size 10000 : 0.039  Seconds
+The run time for SelectionSort of randomly generated set 2 size 10000 : 0.044  Seconds
+The run time for SelectionSort of randomly generated set 3 size 10000 : 0.042  Seconds
+The run time for SelectionSort of randomly generated set 4 size 10000 : 0.051  Seconds
+The run time for SelectionSort of randomly generated set 5 size 10000 : 0.051  Seconds
+
+ 
+ The Current Run Count is : 9 
+
+
+ 
+ 
+The run time for InsertionSort of Ascensing order set size 10000 :  0.437 Seconds
+The run time for InsertionSort of Descending order set size 10000 :  0.000  Seconds
+The run time for InsertionSort of Repeating set size 10000 :  0.000  Secondss
+The run time for InsertionSort of Every other element repeating set size 10000 :  0.000  Seconds
+The run time for InsertionSort of every fifth element repeating set size 10000 :  0.023  Seconds
+The run time for InsertionSort of randomly generated set 1 size 10000 :  0.020  Seconds
+The run time for InsertionSort of randomly generated set 2 size 10000 :  0.021  Seconds
+The run time for InsertionSort of randomly generated set 3 size 10000 :  0.026  Seconds
+The run time for InsertionSort of randomly generated set 4 size 10000 :  0.025  Seconds
+The run time for InsertionSort of randomly generated set 5 size 10000 :  0.028 Seconds
+
+ 
+ The Current Run Count is : 0 
+
+The run time for InsertionSort of every fifth element repeating set size 10000 :  0.015  Seconds
+The run time for InsertionSort of randomly generated set 1 size 10000 :  0.025  Seconds
+The run time for InsertionSort of randomly generated set 2 size 10000 :  0.016  Seconds
+The run time for InsertionSort of randomly generated set 3 size 10000 :  0.023  Seconds
+The run time for InsertionSort of randomly generated set 4 size 10000 :  0.020  Seconds
+The run time for InsertionSort of randomly generated set 5 size 10000 :  0.016 Seconds
+
+ 
+ The Current Run Count is : 1 
+
+The run time for InsertionSort of every fifth element repeating set size 10000 :  0.016  Seconds
+The run time for InsertionSort of randomly generated set 1 size 10000 :  0.025  Seconds
+The run time for InsertionSort of randomly generated set 2 size 10000 :  0.024  Seconds
+The run time for InsertionSort of randomly generated set 3 size 10000 :  0.016  Seconds
+The run time for InsertionSort of randomly generated set 4 size 10000 :  0.021  Seconds
+The run time for InsertionSort of randomly generated set 5 size 10000 :  0.019 Seconds
+
+ 
+ The Current Run Count is : 2 
+
+The run time for InsertionSort of every fifth element repeating set size 10000 :  0.015  Seconds
+The run time for InsertionSort of randomly generated set 1 size 10000 :  0.035  Seconds
+The run time for InsertionSort of randomly generated set 2 size 10000 :  0.031  Seconds
+The run time for InsertionSort of randomly generated set 3 size 10000 :  0.038  Seconds
+The run time for InsertionSort of randomly generated set 4 size 10000 :  0.031  Seconds
+The run time for InsertionSort of randomly generated set 5 size 10000 :  0.029 Seconds
+
+ 
+ The Current Run Count is : 3 
+
+The run time for InsertionSort of every fifth element repeating set size 10000 :  0.015  Seconds
+The run time for InsertionSort of randomly generated set 1 size 10000 :  0.023  Seconds
+The run time for InsertionSort of randomly generated set 2 size 10000 :  0.016  Seconds
+The run time for InsertionSort of randomly generated set 3 size 10000 :  0.021  Seconds
+The run time for InsertionSort of randomly generated set 4 size 10000 :  0.024  Seconds
+The run time for InsertionSort of randomly generated set 5 size 10000 :  0.016 Seconds
+
+ 
+ The Current Run Count is : 4 
+
+The run time for InsertionSort of every fifth element repeating set size 10000 :  0.015  Seconds
+The run time for InsertionSort of randomly generated set 1 size 10000 :  0.022  Seconds
+The run time for InsertionSort of randomly generated set 2 size 10000 :  0.023  Seconds
+The run time for InsertionSort of randomly generated set 3 size 10000 :  0.023  Seconds
+The run time for InsertionSort of randomly generated set 4 size 10000 :  0.016  Seconds
+The run time for InsertionSort of randomly generated set 5 size 10000 :  0.023 Seconds
+
+ 
+ The Current Run Count is : 5 
+
+The run time for InsertionSort of every fifth element repeating set size 10000 :  0.015  Seconds
+The run time for InsertionSort of randomly generated set 1 size 10000 :  0.024  Seconds
+The run time for InsertionSort of randomly generated set 2 size 10000 :  0.022  Seconds
+The run time for InsertionSort of randomly generated set 3 size 10000 :  0.026  Seconds
+The run time for InsertionSort of randomly generated set 4 size 10000 :  0.023  Seconds
+The run time for InsertionSort of randomly generated set 5 size 10000 :  0.023 Seconds
+
+ 
+ The Current Run Count is : 6 
+
+The run time for InsertionSort of every fifth element repeating set size 10000 :  0.015  Seconds
+The run time for InsertionSort of randomly generated set 1 size 10000 :  0.020  Seconds
+The run time for InsertionSort of randomly generated set 2 size 10000 :  0.022  Seconds
+The run time for InsertionSort of randomly generated set 3 size 10000 :  0.028  Seconds
+The run time for InsertionSort of randomly generated set 4 size 10000 :  0.019  Seconds
+The run time for InsertionSort of randomly generated set 5 size 10000 :  0.016 Seconds
+
+ 
+ The Current Run Count is : 7 
+
+The run time for InsertionSort of every fifth element repeating set size 10000 :  0.015  Seconds
+The run time for InsertionSort of randomly generated set 1 size 10000 :  0.023  Seconds
+The run time for InsertionSort of randomly generated set 2 size 10000 :  0.024  Seconds
+The run time for InsertionSort of randomly generated set 3 size 10000 :  0.018  Seconds
+The run time for InsertionSort of randomly generated set 4 size 10000 :  0.016  Seconds
+The run time for InsertionSort of randomly generated set 5 size 10000 :  0.024 Seconds
+
+ 
+ The Current Run Count is : 8 
+
+The run time for InsertionSort of every fifth element repeating set size 10000 :  0.015  Seconds
+The run time for InsertionSort of randomly generated set 1 size 10000 :  0.026  Seconds
+The run time for InsertionSort of randomly generated set 2 size 10000 :  0.022  Seconds
+The run time for InsertionSort of randomly generated set 3 size 10000 :  0.023  Seconds
+The run time for InsertionSort of randomly generated set 4 size 10000 :  0.019  Seconds
+The run time for InsertionSort of randomly generated set 5 size 10000 :  0.016 Seconds
+
+ 
+ The Current Run Count is : 9 
+
+
+ 
+ 
+The run time for MergeSort of Ascensing order set size 10000 :  0.368  Seconds
+The run time for MergeSort of Descending order set size 10000 :  0.012  Seconds
+The run time for MergeSort of Repeating set size 10000 :  0.011 Seconds
+The run time for MergeSort of Every other element repeating set size 10000 :  0.002  Seconds
+The run time for MergeSort of every fifth element repeating set size 10000 :  0.003  Seconds
+The run time for MergeSort of randomly generated set 1 size 10000 :  0.009  Seconds
+The run time for MergeSort of randomly generated set 2 size 10000 :  0.002  Seconds
+The run time for MergeSort of randomly generated set 3 size 10000 :  0.002 Seconds
+The run time for MergeSort of randomly generated set 4 size 10000 :  0.002  Seconds
+The run time for MergeSort of randomly generated set 5 size 10000 :  0.002  Seconds
+
+ 
+ The Current Run Count is : 0 
+
+The run time for MergeSort of every fifth element repeating set size 10000 :  0.002  Seconds
+The run time for MergeSort of randomly generated set 1 size 10000 :  0.002  Seconds
+The run time for MergeSort of randomly generated set 2 size 10000 :  0.002  Seconds
+The run time for MergeSort of randomly generated set 3 size 10000 :  0.007 Seconds
+The run time for MergeSort of randomly generated set 4 size 10000 :  0.003  Seconds
+The run time for MergeSort of randomly generated set 5 size 10000 :  0.002  Seconds
+
+ 
+ The Current Run Count is : 1 
+
+The run time for MergeSort of every fifth element repeating set size 10000 :  0.002  Seconds
+The run time for MergeSort of randomly generated set 1 size 10000 :  0.002  Seconds
+The run time for MergeSort of randomly generated set 2 size 10000 :  0.002  Seconds
+The run time for MergeSort of randomly generated set 3 size 10000 :  0.002 Seconds
+The run time for MergeSort of randomly generated set 4 size 10000 :  0.002  Seconds
+The run time for MergeSort of randomly generated set 5 size 10000 :  0.002  Seconds
+
+ 
+ The Current Run Count is : 2 
+
+The run time for MergeSort of every fifth element repeating set size 10000 :  0.002  Seconds
+The run time for MergeSort of randomly generated set 1 size 10000 :  0.002  Seconds
+The run time for MergeSort of randomly generated set 2 size 10000 :  0.008  Seconds
+The run time for MergeSort of randomly generated set 3 size 10000 :  0.002 Seconds
+The run time for MergeSort of randomly generated set 4 size 10000 :  0.002  Seconds
+The run time for MergeSort of randomly generated set 5 size 10000 :  0.002  Seconds
+
+ 
+ The Current Run Count is : 3 
+
+The run time for MergeSort of every fifth element repeating set size 10000 :  0.002  Seconds
+The run time for MergeSort of randomly generated set 1 size 10000 :  0.002  Seconds
+The run time for MergeSort of randomly generated set 2 size 10000 :  0.002  Seconds
+The run time for MergeSort of randomly generated set 3 size 10000 :  0.002 Seconds
+The run time for MergeSort of randomly generated set 4 size 10000 :  0.002  Seconds
+The run time for MergeSort of randomly generated set 5 size 10000 :  0.002  Seconds
+
+ 
+ The Current Run Count is : 4 
+
+The run time for MergeSort of every fifth element repeating set size 10000 :  0.009  Seconds
+The run time for MergeSort of randomly generated set 1 size 10000 :  0.002  Seconds
+The run time for MergeSort of randomly generated set 2 size 10000 :  0.001  Seconds
+The run time for MergeSort of randomly generated set 3 size 10000 :  0.001 Seconds
+The run time for MergeSort of randomly generated set 4 size 10000 :  0.001  Seconds
+The run time for MergeSort of randomly generated set 5 size 10000 :  0.001  Seconds
+
+ 
+ The Current Run Count is : 5 
+
+The run time for MergeSort of every fifth element repeating set size 10000 :  0.001  Seconds
+The run time for MergeSort of randomly generated set 1 size 10000 :  0.001  Seconds
+The run time for MergeSort of randomly generated set 2 size 10000 :  0.001  Seconds
+The run time for MergeSort of randomly generated set 3 size 10000 :  0.001 Seconds
+The run time for MergeSort of randomly generated set 4 size 10000 :  0.001  Seconds
+The run time for MergeSort of randomly generated set 5 size 10000 :  0.001  Seconds
+
+ 
+ The Current Run Count is : 6 
+
+The run time for MergeSort of every fifth element repeating set size 10000 :  0.001  Seconds
+The run time for MergeSort of randomly generated set 1 size 10000 :  0.001  Seconds
+The run time for MergeSort of randomly generated set 2 size 10000 :  0.001  Seconds
+The run time for MergeSort of randomly generated set 3 size 10000 :  0.001 Seconds
+The run time for MergeSort of randomly generated set 4 size 10000 :  0.003  Seconds
+The run time for MergeSort of randomly generated set 5 size 10000 :  0.007  Seconds
+
+ 
+ The Current Run Count is : 7 
+
+The run time for MergeSort of every fifth element repeating set size 10000 :  0.001  Seconds
+The run time for MergeSort of randomly generated set 1 size 10000 :  0.001  Seconds
+The run time for MergeSort of randomly generated set 2 size 10000 :  0.001  Seconds
+The run time for MergeSort of randomly generated set 3 size 10000 :  0.001 Seconds
+The run time for MergeSort of randomly generated set 4 size 10000 :  0.002  Seconds
+The run time for MergeSort of randomly generated set 5 size 10000 :  0.002  Seconds
+
+ 
+ The Current Run Count is : 8 
+
+The run time for MergeSort of every fifth element repeating set size 10000 :  0.001  Seconds
+The run time for MergeSort of randomly generated set 1 size 10000 :  0.001  Seconds
+The run time for MergeSort of randomly generated set 2 size 10000 :  0.001  Seconds
+The run time for MergeSort of randomly generated set 3 size 10000 :  0.001 Seconds
+The run time for MergeSort of randomly generated set 4 size 10000 :  0.001  Seconds
+The run time for MergeSort of randomly generated set 5 size 10000 :  0.001  Seconds
+
+ 
+ The Current Run Count is : 9 
+
+
+ 
+ 
+The run time for QuickSort of Ascending order set size 10000 : 0.394  Seconds
+The run time for QuickSort of Descending order set size 10000 : 0.017  Seconds
+The run time for QuickSort of Repeating set size 10000 : 0.029  Seconds
+The run time for QuickSort of Every other element repeating set size 10000 : 0.020  Seconds
+The run time for QuickSort of every fifth element repeating set size 10000 : 0.011  Seconds
+The run time for QuickSort of randomly generated set 1 size 10000 : 0.001  Seconds
+The run time for QuickSort of randomly generated set 2 size 10000 : 0.001  Seconds
+The run time for QuickSort of randomly generated set 3 size 10000 : 0.001  Seconds
+The run time for QuickSort of randomly generated set 4 size 10000 : 0.001  Seconds
+The run time for QuickSort of randomly generated set 5 size 10000 : 0.001  Seconds
+
+ 
+ The Current Run Count is : 0 
+
+The run time for QuickSort of every fifth element repeating set size 10000 : 0.003  Seconds
+The run time for QuickSort of randomly generated set 1 size 10000 : 0.001  Seconds
+The run time for QuickSort of randomly generated set 2 size 10000 : 0.001  Seconds
+The run time for QuickSort of randomly generated set 3 size 10000 : 0.011  Seconds
+The run time for QuickSort of randomly generated set 4 size 10000 : 0.001  Seconds
+The run time for QuickSort of randomly generated set 5 size 10000 : 0.001  Seconds
+
+ 
+ The Current Run Count is : 1 
+
+The run time for QuickSort of every fifth element repeating set size 10000 : 0.002  Seconds
+The run time for QuickSort of randomly generated set 1 size 10000 : 0.001  Seconds
+The run time for QuickSort of randomly generated set 2 size 10000 : 0.001  Seconds
+The run time for QuickSort of randomly generated set 3 size 10000 : 0.001  Seconds
+The run time for QuickSort of randomly generated set 4 size 10000 : 0.001  Seconds
+The run time for QuickSort of randomly generated set 5 size 10000 : 0.001  Seconds
+
+ 
+ The Current Run Count is : 2 
+
+The run time for QuickSort of every fifth element repeating set size 10000 : 0.002  Seconds
+The run time for QuickSort of randomly generated set 1 size 10000 : 0.001  Seconds
+The run time for QuickSort of randomly generated set 2 size 10000 : 0.001  Seconds
+The run time for QuickSort of randomly generated set 3 size 10000 : 0.001  Seconds
+The run time for QuickSort of randomly generated set 4 size 10000 : 0.001  Seconds
+The run time for QuickSort of randomly generated set 5 size 10000 : 0.001  Seconds
+
+ 
+ The Current Run Count is : 3 
+
+The run time for QuickSort of every fifth element repeating set size 10000 : 0.002  Seconds
+The run time for QuickSort of randomly generated set 1 size 10000 : 0.001  Seconds
+The run time for QuickSort of randomly generated set 2 size 10000 : 0.001  Seconds
+The run time for QuickSort of randomly generated set 3 size 10000 : 0.001  Seconds
+The run time for QuickSort of randomly generated set 4 size 10000 : 0.001  Seconds
+The run time for QuickSort of randomly generated set 5 size 10000 : 0.001  Seconds
+
+ 
+ The Current Run Count is : 4 
+
+The run time for QuickSort of every fifth element repeating set size 10000 : 0.002  Seconds
+The run time for QuickSort of randomly generated set 1 size 10000 : 0.001  Seconds
+The run time for QuickSort of randomly generated set 2 size 10000 : 0.001  Seconds
+The run time for QuickSort of randomly generated set 3 size 10000 : 0.001  Seconds
+The run time for QuickSort of randomly generated set 4 size 10000 : 0.001  Seconds
+The run time for QuickSort of randomly generated set 5 size 10000 : 0.001  Seconds
+
+ 
+ The Current Run Count is : 5 
+
+The run time for QuickSort of every fifth element repeating set size 10000 : 0.002  Seconds
+The run time for QuickSort of randomly generated set 1 size 10000 : 0.001  Seconds
+The run time for QuickSort of randomly generated set 2 size 10000 : 0.001  Seconds
+The run time for QuickSort of randomly generated set 3 size 10000 : 0.001  Seconds
+The run time for QuickSort of randomly generated set 4 size 10000 : 0.001  Seconds
+The run time for QuickSort of randomly generated set 5 size 10000 : 0.001  Seconds
+
+ 
+ The Current Run Count is : 6 
+
+The run time for QuickSort of every fifth element repeating set size 10000 : 0.002  Seconds
+The run time for QuickSort of randomly generated set 1 size 10000 : 0.001  Seconds
+The run time for QuickSort of randomly generated set 2 size 10000 : 0.001  Seconds
+The run time for QuickSort of randomly generated set 3 size 10000 : 0.001  Seconds
+The run time for QuickSort of randomly generated set 4 size 10000 : 0.001  Seconds
+The run time for QuickSort of randomly generated set 5 size 10000 : 0.001  Seconds
+
+ 
+ The Current Run Count is : 7 
+
+The run time for QuickSort of every fifth element repeating set size 10000 : 0.002  Seconds
+The run time for QuickSort of randomly generated set 1 size 10000 : 0.001  Seconds
+The run time for QuickSort of randomly generated set 2 size 10000 : 0.001  Seconds
+The run time for QuickSort of randomly generated set 3 size 10000 : 0.004  Seconds
+The run time for QuickSort of randomly generated set 4 size 10000 : 0.001  Seconds
+The run time for QuickSort of randomly generated set 5 size 10000 : 0.001  Seconds
+
+ 
+ The Current Run Count is : 8 
+
+The run time for QuickSort of every fifth element repeating set size 10000 : 0.002  Seconds
+The run time for QuickSort of randomly generated set 1 size 10000 : 0.001  Seconds
+The run time for QuickSort of randomly generated set 2 size 10000 : 0.001  Seconds
+The run time for QuickSort of randomly generated set 3 size 10000 : 0.001  Seconds
+The run time for QuickSort of randomly generated set 4 size 10000 : 0.003  Seconds
+The run time for QuickSort of randomly generated set 5 size 10000 : 0.001  Seconds
+
+ 
+ The Current Run Count is : 9 
+
+The run time for BubbleSort of Ascensing order set size 50000 : 0.503  Seconds
+The run time for BubbleSort of Descending order set size 50000 : 0.928 Seconds
+The run time for BubbleSort of Repeating set size 50000 : 0.507  Seconds
+The run time for BubbleSort of Every other element repeating set size 50000 : 1.254  Seconds
+The run time for BubbleSort of every fifth element repeating set size 50000 : 2.847  Seconds
+The run time for BubbleSort of randomly generated set 1 size 50000 : 3.580  Seconds
+The run time for BubbleSort of randomly generated set 2 size 50000 : 3.594  Seconds
+The run time for BubbleSort of randomly generated set 3 size 50000 : 3.605  Seconds
+The run time for BubbleSort of randomly generated set 4 size 50000 : 3.603  Seconds
+The run time for BubbleSort of randomly generated set 5 size 50000 : 3.600 Seconds
+
+ 
+ The Current Run Count is : 0 
+
+The run time for BubbleSort of every fifth element repeating set size 50000 : 2.845  Seconds
+The run time for BubbleSort of randomly generated set 1 size 50000 : 3.346  Seconds
+The run time for BubbleSort of randomly generated set 2 size 50000 : 3.234  Seconds
+The run time for BubbleSort of randomly generated set 3 size 50000 : 3.599  Seconds
+The run time for BubbleSort of randomly generated set 4 size 50000 : 3.610  Seconds
+The run time for BubbleSort of randomly generated set 5 size 50000 : 3.605 Seconds
+
+ 
+ The Current Run Count is : 1 
+
+The run time for BubbleSort of every fifth element repeating set size 50000 : 2.841  Seconds
+The run time for BubbleSort of randomly generated set 1 size 50000 : 3.162  Seconds
+The run time for BubbleSort of randomly generated set 2 size 50000 : 3.215  Seconds
+The run time for BubbleSort of randomly generated set 3 size 50000 : 2.991  Seconds
+The run time for BubbleSort of randomly generated set 4 size 50000 : 3.604  Seconds
+The run time for BubbleSort of randomly generated set 5 size 50000 : 3.603 Seconds
+
+ 
+ The Current Run Count is : 2 
+
+The run time for BubbleSort of every fifth element repeating set size 50000 : 2.844  Seconds
+The run time for BubbleSort of randomly generated set 1 size 50000 : 3.396  Seconds
+The run time for BubbleSort of randomly generated set 2 size 50000 : 3.509  Seconds
+The run time for BubbleSort of randomly generated set 3 size 50000 : 3.592  Seconds
+The run time for BubbleSort of randomly generated set 4 size 50000 : 3.589  Seconds
+The run time for BubbleSort of randomly generated set 5 size 50000 : 3.573 Seconds
+
+ 
+ The Current Run Count is : 3 
+
+The run time for BubbleSort of every fifth element repeating set size 50000 : 2.846  Seconds
+The run time for BubbleSort of randomly generated set 1 size 50000 : 3.146  Seconds
+The run time for BubbleSort of randomly generated set 2 size 50000 : 3.503  Seconds
+The run time for BubbleSort of randomly generated set 3 size 50000 : 3.593  Seconds
+The run time for BubbleSort of randomly generated set 4 size 50000 : 3.580  Seconds
+The run time for BubbleSort of randomly generated set 5 size 50000 : 3.598 Seconds
+
+ 
+ The Current Run Count is : 4 
+
+The run time for BubbleSort of every fifth element repeating set size 50000 : 2.851  Seconds
+The run time for BubbleSort of randomly generated set 1 size 50000 : 3.401  Seconds
+The run time for BubbleSort of randomly generated set 2 size 50000 : 3.516  Seconds
+The run time for BubbleSort of randomly generated set 3 size 50000 : 3.597  Seconds
+The run time for BubbleSort of randomly generated set 4 size 50000 : 3.608  Seconds
+The run time for BubbleSort of randomly generated set 5 size 50000 : 3.578 Seconds
+
+ 
+ The Current Run Count is : 5 
+
+The run time for BubbleSort of every fifth element repeating set size 50000 : 2.847  Seconds
+The run time for BubbleSort of randomly generated set 1 size 50000 : 3.139  Seconds
+The run time for BubbleSort of randomly generated set 2 size 50000 : 3.496  Seconds
+The run time for BubbleSort of randomly generated set 3 size 50000 : 3.600  Seconds
+The run time for BubbleSort of randomly generated set 4 size 50000 : 3.579  Seconds
+The run time for BubbleSort of randomly generated set 5 size 50000 : 3.600 Seconds
+
+ 
+ The Current Run Count is : 6 
+
+The run time for BubbleSort of every fifth element repeating set size 50000 : 2.856  Seconds
+The run time for BubbleSort of randomly generated set 1 size 50000 : 3.404  Seconds
+The run time for BubbleSort of randomly generated set 2 size 50000 : 3.517  Seconds
+The run time for BubbleSort of randomly generated set 3 size 50000 : 3.603  Seconds
+The run time for BubbleSort of randomly generated set 4 size 50000 : 3.613  Seconds
+The run time for BubbleSort of randomly generated set 5 size 50000 : 3.570 Seconds
+
+ 
+ The Current Run Count is : 7 
+
+The run time for BubbleSort of every fifth element repeating set size 50000 : 2.837  Seconds
+The run time for BubbleSort of randomly generated set 1 size 50000 : 3.143  Seconds
+The run time for BubbleSort of randomly generated set 2 size 50000 : 3.492  Seconds
+The run time for BubbleSort of randomly generated set 3 size 50000 : 3.585  Seconds
+The run time for BubbleSort of randomly generated set 4 size 50000 : 3.576  Seconds
+The run time for BubbleSort of randomly generated set 5 size 50000 : 3.610 Seconds
+
+ 
+ The Current Run Count is : 8 
+
+The run time for BubbleSort of every fifth element repeating set size 50000 : 3.252  Seconds
+The run time for BubbleSort of randomly generated set 1 size 50000 : 3.845  Seconds
+The run time for BubbleSort of randomly generated set 2 size 50000 : 4.047  Seconds
+The run time for BubbleSort of randomly generated set 3 size 50000 : 4.101  Seconds
+The run time for BubbleSort of randomly generated set 4 size 50000 : 3.577  Seconds
+The run time for BubbleSort of randomly generated set 5 size 50000 : 3.565 Seconds
+
+ 
+ The Current Run Count is : 9 
+
+
+ 
+ 
+The run time for SelectionSort of Ascensing order set size 50000 : 11.685  Seconds
+The run time for SelectionSort of Descending order set size 50000 : 0.810  Seconds
+The run time for SelectionSort of Repeating set size 50000 : 0.819  Seconds
+The run time for SelectionSort of Every other element repeating set size 50000 : 0.810  Seconds
+The run time for SelectionSort of every fifth element repeating set size 50000 : 0.810  Seconds
+The run time for SelectionSort of randomly generated set 1 size 50000 : 0.812  Seconds
+The run time for SelectionSort of randomly generated set 2 size 50000 : 0.809  Seconds
+The run time for SelectionSort of randomly generated set 3 size 50000 : 0.813  Seconds
+The run time for SelectionSort of randomly generated set 4 size 50000 : 0.811  Seconds
+The run time for SelectionSort of randomly generated set 5 size 50000 : 0.812  Seconds
+
+ 
+ The Current Run Count is : 0 
+
+The run time for SelectionSort of every fifth element repeating set size 50000 : 0.803  Seconds
+The run time for SelectionSort of randomly generated set 1 size 50000 : 0.815  Seconds
+The run time for SelectionSort of randomly generated set 2 size 50000 : 0.811  Seconds
+The run time for SelectionSort of randomly generated set 3 size 50000 : 0.815  Seconds
+The run time for SelectionSort of randomly generated set 4 size 50000 : 0.810  Seconds
+The run time for SelectionSort of randomly generated set 5 size 50000 : 0.810  Seconds
+
+ 
+ The Current Run Count is : 1 
+
+The run time for SelectionSort of every fifth element repeating set size 50000 : 0.803  Seconds
+The run time for SelectionSort of randomly generated set 1 size 50000 : 0.811  Seconds
+The run time for SelectionSort of randomly generated set 2 size 50000 : 0.814  Seconds
+The run time for SelectionSort of randomly generated set 3 size 50000 : 0.809  Seconds
+The run time for SelectionSort of randomly generated set 4 size 50000 : 0.810  Seconds
+The run time for SelectionSort of randomly generated set 5 size 50000 : 0.811  Seconds
+
+ 
+ The Current Run Count is : 2 
+
+The run time for SelectionSort of every fifth element repeating set size 50000 : 0.802  Seconds
+The run time for SelectionSort of randomly generated set 1 size 50000 : 0.810  Seconds
+The run time for SelectionSort of randomly generated set 2 size 50000 : 0.810  Seconds
+The run time for SelectionSort of randomly generated set 3 size 50000 : 0.809  Seconds
+The run time for SelectionSort of randomly generated set 4 size 50000 : 0.810  Seconds
+The run time for SelectionSort of randomly generated set 5 size 50000 : 0.810  Seconds
+
+ 
+ The Current Run Count is : 3 
+
+The run time for SelectionSort of every fifth element repeating set size 50000 : 0.803  Seconds
+The run time for SelectionSort of randomly generated set 1 size 50000 : 0.821  Seconds
+The run time for SelectionSort of randomly generated set 2 size 50000 : 0.809  Seconds
+The run time for SelectionSort of randomly generated set 3 size 50000 : 0.813  Seconds
+The run time for SelectionSort of randomly generated set 4 size 50000 : 0.810  Seconds
+The run time for SelectionSort of randomly generated set 5 size 50000 : 0.808  Seconds
+
+ 
+ The Current Run Count is : 4 
+
+The run time for SelectionSort of every fifth element repeating set size 50000 : 0.804  Seconds
+The run time for SelectionSort of randomly generated set 1 size 50000 : 0.811  Seconds
+The run time for SelectionSort of randomly generated set 2 size 50000 : 0.809  Seconds
+The run time for SelectionSort of randomly generated set 3 size 50000 : 0.808  Seconds
+The run time for SelectionSort of randomly generated set 4 size 50000 : 0.809  Seconds
+The run time for SelectionSort of randomly generated set 5 size 50000 : 0.815  Seconds
+
+ 
+ The Current Run Count is : 5 
+
+The run time for SelectionSort of every fifth element repeating set size 50000 : 0.804  Seconds
+The run time for SelectionSort of randomly generated set 1 size 50000 : 0.810  Seconds
+The run time for SelectionSort of randomly generated set 2 size 50000 : 0.808  Seconds
+The run time for SelectionSort of randomly generated set 3 size 50000 : 0.813  Seconds
+The run time for SelectionSort of randomly generated set 4 size 50000 : 0.809  Seconds
+The run time for SelectionSort of randomly generated set 5 size 50000 : 0.810  Seconds
+
+ 
+ The Current Run Count is : 6 
+
+The run time for SelectionSort of every fifth element repeating set size 50000 : 0.805  Seconds
+The run time for SelectionSort of randomly generated set 1 size 50000 : 0.813  Seconds
+The run time for SelectionSort of randomly generated set 2 size 50000 : 0.809  Seconds
+The run time for SelectionSort of randomly generated set 3 size 50000 : 0.811  Seconds
+The run time for SelectionSort of randomly generated set 4 size 50000 : 0.810  Seconds
+The run time for SelectionSort of randomly generated set 5 size 50000 : 0.811  Seconds
+
+ 
+ The Current Run Count is : 7 
+
+The run time for SelectionSort of every fifth element repeating set size 50000 : 0.804  Seconds
+The run time for SelectionSort of randomly generated set 1 size 50000 : 0.811  Seconds
+The run time for SelectionSort of randomly generated set 2 size 50000 : 0.809  Seconds
+The run time for SelectionSort of randomly generated set 3 size 50000 : 0.809  Seconds
+The run time for SelectionSort of randomly generated set 4 size 50000 : 0.810  Seconds
+The run time for SelectionSort of randomly generated set 5 size 50000 : 0.809  Seconds
+
+ 
+ The Current Run Count is : 8 
+
+The run time for SelectionSort of every fifth element repeating set size 50000 : 0.803  Seconds
+The run time for SelectionSort of randomly generated set 1 size 50000 : 0.812  Seconds
+The run time for SelectionSort of randomly generated set 2 size 50000 : 0.809  Seconds
+The run time for SelectionSort of randomly generated set 3 size 50000 : 0.809  Seconds
+The run time for SelectionSort of randomly generated set 4 size 50000 : 0.810  Seconds
+The run time for SelectionSort of randomly generated set 5 size 50000 : 0.809  Seconds
+
+ 
+ The Current Run Count is : 9 
+
+
+ 
+ 
+The run time for InsertionSort of Ascensing order set size 50000 :  8.113 Seconds
+The run time for InsertionSort of Descending order set size 50000 :  0.000  Seconds
+The run time for InsertionSort of Repeating set size 50000 :  0.000  Secondss
+The run time for InsertionSort of Every other element repeating set size 50000 :  0.000  Seconds
+The run time for InsertionSort of every fifth element repeating set size 50000 :  0.428  Seconds
+The run time for InsertionSort of randomly generated set 1 size 50000 :  0.435  Seconds
+The run time for InsertionSort of randomly generated set 2 size 50000 :  0.418  Seconds
+The run time for InsertionSort of randomly generated set 3 size 50000 :  0.405  Seconds
+The run time for InsertionSort of randomly generated set 4 size 50000 :  0.404  Seconds
+The run time for InsertionSort of randomly generated set 5 size 50000 :  0.406 Seconds
+
+ 
+ The Current Run Count is : 0 
+
+The run time for InsertionSort of every fifth element repeating set size 50000 :  0.384  Seconds
+The run time for InsertionSort of randomly generated set 1 size 50000 :  0.430  Seconds
+The run time for InsertionSort of randomly generated set 2 size 50000 :  0.416  Seconds
+The run time for InsertionSort of randomly generated set 3 size 50000 :  0.405  Seconds
+The run time for InsertionSort of randomly generated set 4 size 50000 :  0.404  Seconds
+The run time for InsertionSort of randomly generated set 5 size 50000 :  0.403 Seconds
+
+ 
+ The Current Run Count is : 1 
+
+The run time for InsertionSort of every fifth element repeating set size 50000 :  0.383  Seconds
+The run time for InsertionSort of randomly generated set 1 size 50000 :  0.436  Seconds
+The run time for InsertionSort of randomly generated set 2 size 50000 :  0.419  Seconds
+The run time for InsertionSort of randomly generated set 3 size 50000 :  0.405  Seconds
+The run time for InsertionSort of randomly generated set 4 size 50000 :  0.404  Seconds
+The run time for InsertionSort of randomly generated set 5 size 50000 :  0.407 Seconds
+
+ 
+ The Current Run Count is : 2 
+
+The run time for InsertionSort of every fifth element repeating set size 50000 :  0.384  Seconds
+The run time for InsertionSort of randomly generated set 1 size 50000 :  0.429  Seconds
+The run time for InsertionSort of randomly generated set 2 size 50000 :  0.416  Seconds
+The run time for InsertionSort of randomly generated set 3 size 50000 :  0.407  Seconds
+The run time for InsertionSort of randomly generated set 4 size 50000 :  0.404  Seconds
+The run time for InsertionSort of randomly generated set 5 size 50000 :  0.404 Seconds
+
+ 
+ The Current Run Count is : 3 
+
+The run time for InsertionSort of every fifth element repeating set size 50000 :  0.385  Seconds
+The run time for InsertionSort of randomly generated set 1 size 50000 :  0.435  Seconds
+The run time for InsertionSort of randomly generated set 2 size 50000 :  0.420  Seconds
+The run time for InsertionSort of randomly generated set 3 size 50000 :  0.404  Seconds
+The run time for InsertionSort of randomly generated set 4 size 50000 :  0.404  Seconds
+The run time for InsertionSort of randomly generated set 5 size 50000 :  0.407 Seconds
+
+ 
+ The Current Run Count is : 4 
+
+The run time for InsertionSort of every fifth element repeating set size 50000 :  0.386  Seconds
+The run time for InsertionSort of randomly generated set 1 size 50000 :  0.431  Seconds
+The run time for InsertionSort of randomly generated set 2 size 50000 :  0.417  Seconds
+The run time for InsertionSort of randomly generated set 3 size 50000 :  0.406  Seconds
+The run time for InsertionSort of randomly generated set 4 size 50000 :  0.407  Seconds
+The run time for InsertionSort of randomly generated set 5 size 50000 :  0.405 Seconds
+
+ 
+ The Current Run Count is : 5 
+
+The run time for InsertionSort of every fifth element repeating set size 50000 :  0.386  Seconds
+The run time for InsertionSort of randomly generated set 1 size 50000 :  0.438  Seconds
+The run time for InsertionSort of randomly generated set 2 size 50000 :  0.420  Seconds
+The run time for InsertionSort of randomly generated set 3 size 50000 :  0.405  Seconds
+The run time for InsertionSort of randomly generated set 4 size 50000 :  0.408  Seconds
+The run time for InsertionSort of randomly generated set 5 size 50000 :  0.409 Seconds
+
+ 
+ The Current Run Count is : 6 
+
+The run time for InsertionSort of every fifth element repeating set size 50000 :  0.384  Seconds
+The run time for InsertionSort of randomly generated set 1 size 50000 :  0.431  Seconds
+The run time for InsertionSort of randomly generated set 2 size 50000 :  0.416  Seconds
+The run time for InsertionSort of randomly generated set 3 size 50000 :  0.408  Seconds
+The run time for InsertionSort of randomly generated set 4 size 50000 :  0.405  Seconds
+The run time for InsertionSort of randomly generated set 5 size 50000 :  0.404 Seconds
+
+ 
+ The Current Run Count is : 7 
+
+The run time for InsertionSort of every fifth element repeating set size 50000 :  0.386  Seconds
+The run time for InsertionSort of randomly generated set 1 size 50000 :  0.436  Seconds
+The run time for InsertionSort of randomly generated set 2 size 50000 :  0.417  Seconds
+The run time for InsertionSort of randomly generated set 3 size 50000 :  0.406  Seconds
+The run time for InsertionSort of randomly generated set 4 size 50000 :  0.403  Seconds
+The run time for InsertionSort of randomly generated set 5 size 50000 :  0.409 Seconds
+
+ 
+ The Current Run Count is : 8 
+
+The run time for InsertionSort of every fifth element repeating set size 50000 :  0.386  Seconds
+The run time for InsertionSort of randomly generated set 1 size 50000 :  0.431  Seconds
+The run time for InsertionSort of randomly generated set 2 size 50000 :  0.417  Seconds
+The run time for InsertionSort of randomly generated set 3 size 50000 :  0.407  Seconds
+The run time for InsertionSort of randomly generated set 4 size 50000 :  0.404  Seconds
+The run time for InsertionSort of randomly generated set 5 size 50000 :  0.415 Seconds
+
+ 
+ The Current Run Count is : 9 
+
+
+ 
+ 
+The run time for MergeSort of Ascensing order set size 50000 :  7.724  Seconds
+The run time for MergeSort of Descending order set size 50000 :  0.007  Seconds
+The run time for MergeSort of Repeating set size 50000 :  0.005 Seconds
+The run time for MergeSort of Every other element repeating set size 50000 :  0.010  Seconds
+The run time for MergeSort of every fifth element repeating set size 50000 :  0.013  Seconds
+The run time for MergeSort of randomly generated set 1 size 50000 :  0.008  Seconds
+The run time for MergeSort of randomly generated set 2 size 50000 :  0.015  Seconds
+The run time for MergeSort of randomly generated set 3 size 50000 :  0.010 Seconds
+The run time for MergeSort of randomly generated set 4 size 50000 :  0.007  Seconds
+The run time for MergeSort of randomly generated set 5 size 50000 :  0.007  Seconds
+
+ 
+ The Current Run Count is : 0 
+
+The run time for MergeSort of every fifth element repeating set size 50000 :  0.007  Seconds
+The run time for MergeSort of randomly generated set 1 size 50000 :  0.007  Seconds
+The run time for MergeSort of randomly generated set 2 size 50000 :  0.014  Seconds
+The run time for MergeSort of randomly generated set 3 size 50000 :  0.015 Seconds
+The run time for MergeSort of randomly generated set 4 size 50000 :  0.008  Seconds
+The run time for MergeSort of randomly generated set 5 size 50000 :  0.012  Seconds
+
+ 
+ The Current Run Count is : 1 
+
+The run time for MergeSort of every fifth element repeating set size 50000 :  0.007  Seconds
+The run time for MergeSort of randomly generated set 1 size 50000 :  0.012  Seconds
+The run time for MergeSort of randomly generated set 2 size 50000 :  0.015  Seconds
+The run time for MergeSort of randomly generated set 3 size 50000 :  0.009 Seconds
+The run time for MergeSort of randomly generated set 4 size 50000 :  0.008  Seconds
+The run time for MergeSort of randomly generated set 5 size 50000 :  0.008  Seconds
+
+ 
+ The Current Run Count is : 2 
+
+The run time for MergeSort of every fifth element repeating set size 50000 :  0.007  Seconds
+The run time for MergeSort of randomly generated set 1 size 50000 :  0.014  Seconds
+The run time for MergeSort of randomly generated set 2 size 50000 :  0.015  Seconds
+The run time for MergeSort of randomly generated set 3 size 50000 :  0.009 Seconds
+The run time for MergeSort of randomly generated set 4 size 50000 :  0.007  Seconds
+The run time for MergeSort of randomly generated set 5 size 50000 :  0.010  Seconds
+
+ 
+ The Current Run Count is : 3 
+
+The run time for MergeSort of every fifth element repeating set size 50000 :  0.007  Seconds
+The run time for MergeSort of randomly generated set 1 size 50000 :  0.007  Seconds
+The run time for MergeSort of randomly generated set 2 size 50000 :  0.013  Seconds
+The run time for MergeSort of randomly generated set 3 size 50000 :  0.008 Seconds
+The run time for MergeSort of randomly generated set 4 size 50000 :  0.013  Seconds
+The run time for MergeSort of randomly generated set 5 size 50000 :  0.017  Seconds
+
+ 
+ The Current Run Count is : 4 
+
+The run time for MergeSort of every fifth element repeating set size 50000 :  0.007  Seconds
+The run time for MergeSort of randomly generated set 1 size 50000 :  0.007  Seconds
+The run time for MergeSort of randomly generated set 2 size 50000 :  0.014  Seconds
+The run time for MergeSort of randomly generated set 3 size 50000 :  0.014 Seconds
+The run time for MergeSort of randomly generated set 4 size 50000 :  0.008  Seconds
+The run time for MergeSort of randomly generated set 5 size 50000 :  0.007  Seconds
+
+ 
+ The Current Run Count is : 5 
+
+The run time for MergeSort of every fifth element repeating set size 50000 :  0.007  Seconds
+The run time for MergeSort of randomly generated set 1 size 50000 :  0.007  Seconds
+The run time for MergeSort of randomly generated set 2 size 50000 :  0.013  Seconds
+The run time for MergeSort of randomly generated set 3 size 50000 :  0.014 Seconds
+The run time for MergeSort of randomly generated set 4 size 50000 :  0.013  Seconds
+The run time for MergeSort of randomly generated set 5 size 50000 :  0.012  Seconds
+
+ 
+ The Current Run Count is : 6 
+
+The run time for MergeSort of every fifth element repeating set size 50000 :  0.007  Seconds
+The run time for MergeSort of randomly generated set 1 size 50000 :  0.007  Seconds
+The run time for MergeSort of randomly generated set 2 size 50000 :  0.014  Seconds
+The run time for MergeSort of randomly generated set 3 size 50000 :  0.014 Seconds
+The run time for MergeSort of randomly generated set 4 size 50000 :  0.012  Seconds
+The run time for MergeSort of randomly generated set 5 size 50000 :  0.008  Seconds
+
+ 
+ The Current Run Count is : 7 
+
+The run time for MergeSort of every fifth element repeating set size 50000 :  0.007  Seconds
+The run time for MergeSort of randomly generated set 1 size 50000 :  0.007  Seconds
+The run time for MergeSort of randomly generated set 2 size 50000 :  0.013  Seconds
+The run time for MergeSort of randomly generated set 3 size 50000 :  0.013 Seconds
+The run time for MergeSort of randomly generated set 4 size 50000 :  0.008  Seconds
+The run time for MergeSort of randomly generated set 5 size 50000 :  0.012  Seconds
+
+ 
+ The Current Run Count is : 8 
+
+The run time for MergeSort of every fifth element repeating set size 50000 :  0.007  Seconds
+The run time for MergeSort of randomly generated set 1 size 50000 :  0.013  Seconds
+The run time for MergeSort of randomly generated set 2 size 50000 :  0.008  Seconds
+The run time for MergeSort of randomly generated set 3 size 50000 :  0.007 Seconds
+The run time for MergeSort of randomly generated set 4 size 50000 :  0.012  Seconds
+The run time for MergeSort of randomly generated set 5 size 50000 :  0.008  Seconds
+
+ 
+ The Current Run Count is : 9 
+
+
+ 
+ 
+The run time for QuickSort of Ascending order set size 50000 : 8.534  Seconds
+The run time for QuickSort of Descending order set size 50000 : 1.135  Seconds
+The run time for QuickSort of Repeating set size 50000 : 1.128  Seconds
+The run time for QuickSort of Every other element repeating set size 50000 : 1.135  Seconds
+The run time for QuickSort of every fifth element repeating set size 50000 : 0.055  Seconds
+The run time for QuickSort of randomly generated set 1 size 50000 : 0.003  Seconds
+The run time for QuickSort of randomly generated set 2 size 50000 : 0.009  Seconds
+The run time for QuickSort of randomly generated set 3 size 50000 : 0.004  Seconds
+The run time for QuickSort of randomly generated set 4 size 50000 : 0.004  Seconds
+The run time for QuickSort of randomly generated set 5 size 50000 : 0.009  Seconds
+
+ 
+ The Current Run Count is : 0 
+
+The run time for QuickSort of every fifth element repeating set size 50000 : 0.047  Seconds
+The run time for QuickSort of randomly generated set 1 size 50000 : 0.004  Seconds
+The run time for QuickSort of randomly generated set 2 size 50000 : 0.004  Seconds
+The run time for QuickSort of randomly generated set 3 size 50000 : 0.003  Seconds
+The run time for QuickSort of randomly generated set 4 size 50000 : 0.004  Seconds
+The run time for QuickSort of randomly generated set 5 size 50000 : 0.009  Seconds
+
+ 
+ The Current Run Count is : 1 
+
+The run time for QuickSort of every fifth element repeating set size 50000 : 0.047  Seconds
+The run time for QuickSort of randomly generated set 1 size 50000 : 0.003  Seconds
+The run time for QuickSort of randomly generated set 2 size 50000 : 0.016  Seconds
+The run time for QuickSort of randomly generated set 3 size 50000 : 0.006  Seconds
+The run time for QuickSort of randomly generated set 4 size 50000 : 0.004  Seconds
+The run time for QuickSort of randomly generated set 5 size 50000 : 0.004  Seconds
+
+ 
+ The Current Run Count is : 2 
+
+The run time for QuickSort of every fifth element repeating set size 50000 : 0.048  Seconds
+The run time for QuickSort of randomly generated set 1 size 50000 : 0.004  Seconds
+The run time for QuickSort of randomly generated set 2 size 50000 : 0.004  Seconds
+The run time for QuickSort of randomly generated set 3 size 50000 : 0.003  Seconds
+The run time for QuickSort of randomly generated set 4 size 50000 : 0.012  Seconds
+The run time for QuickSort of randomly generated set 5 size 50000 : 0.003  Seconds
+
+ 
+ The Current Run Count is : 3 
+
+The run time for QuickSort of every fifth element repeating set size 50000 : 0.048  Seconds
+The run time for QuickSort of randomly generated set 1 size 50000 : 0.003  Seconds
+The run time for QuickSort of randomly generated set 2 size 50000 : 0.003  Seconds
+The run time for QuickSort of randomly generated set 3 size 50000 : 0.008  Seconds
+The run time for QuickSort of randomly generated set 4 size 50000 : 0.004  Seconds
+The run time for QuickSort of randomly generated set 5 size 50000 : 0.003  Seconds
+
+ 
+ The Current Run Count is : 4 
+
+The run time for QuickSort of every fifth element repeating set size 50000 : 0.047  Seconds
+The run time for QuickSort of randomly generated set 1 size 50000 : 0.004  Seconds
+The run time for QuickSort of randomly generated set 2 size 50000 : 0.004  Seconds
+The run time for QuickSort of randomly generated set 3 size 50000 : 0.008  Seconds
+The run time for QuickSort of randomly generated set 4 size 50000 : 0.004  Seconds
+The run time for QuickSort of randomly generated set 5 size 50000 : 0.004  Seconds
+
+ 
+ The Current Run Count is : 5 
+
+The run time for QuickSort of every fifth element repeating set size 50000 : 0.048  Seconds
+The run time for QuickSort of randomly generated set 1 size 50000 : 0.004  Seconds
+The run time for QuickSort of randomly generated set 2 size 50000 : 0.004  Seconds
+The run time for QuickSort of randomly generated set 3 size 50000 : 0.004  Seconds
+The run time for QuickSort of randomly generated set 4 size 50000 : 0.009  Seconds
+The run time for QuickSort of randomly generated set 5 size 50000 : 0.003  Seconds
+
+ 
+ The Current Run Count is : 6 
+
+The run time for QuickSort of every fifth element repeating set size 50000 : 0.051  Seconds
+The run time for QuickSort of randomly generated set 1 size 50000 : 0.004  Seconds
+The run time for QuickSort of randomly generated set 2 size 50000 : 0.004  Seconds
+The run time for QuickSort of randomly generated set 3 size 50000 : 0.016  Seconds
+The run time for QuickSort of randomly generated set 4 size 50000 : 0.004  Seconds
+The run time for QuickSort of randomly generated set 5 size 50000 : 0.009  Seconds
+
+ 
+ The Current Run Count is : 7 
+
+The run time for QuickSort of every fifth element repeating set size 50000 : 0.048  Seconds
+The run time for QuickSort of randomly generated set 1 size 50000 : 0.003  Seconds
+The run time for QuickSort of randomly generated set 2 size 50000 : 0.011  Seconds
+The run time for QuickSort of randomly generated set 3 size 50000 : 0.004  Seconds
+The run time for QuickSort of randomly generated set 4 size 50000 : 0.004  Seconds
+The run time for QuickSort of randomly generated set 5 size 50000 : 0.009  Seconds
+
+ 
+ The Current Run Count is : 8 
+
+The run time for QuickSort of every fifth element repeating set size 50000 : 0.050  Seconds
+The run time for QuickSort of randomly generated set 1 size 50000 : 0.004  Seconds
+The run time for QuickSort of randomly generated set 2 size 50000 : 0.004  Seconds
+The run time for QuickSort of randomly generated set 3 size 50000 : 0.004  Seconds
+The run time for QuickSort of randomly generated set 4 size 50000 : 0.008  Seconds
+The run time for QuickSort of randomly generated set 5 size 50000 : 0.003  Seconds
+
+ 
+ The Current Run Count is : 9 
+
+The run time for BubbleSort of Ascensing order set size 100000 : 2.081  Seconds
+The run time for BubbleSort of Descending order set size 100000 : 3.779 Seconds
+The run time for BubbleSort of Repeating set size 100000 : 2.049  Seconds
+The run time for BubbleSort of Every other element repeating set size 100000 : 5.113  Seconds
+The run time for BubbleSort of every fifth element repeating set size 100000 : 11.885  Seconds
+The run time for BubbleSort of randomly generated set 1 size 100000 : 14.608  Seconds
+The run time for BubbleSort of randomly generated set 2 size 100000 : 14.504  Seconds
+The run time for BubbleSort of randomly generated set 3 size 100000 : 14.425  Seconds
+The run time for BubbleSort of randomly generated set 4 size 100000 : 14.444  Seconds
+The run time for BubbleSort of randomly generated set 5 size 100000 : 14.424 Seconds
+
+ 
+ The Current Run Count is : 0 
+
+The run time for BubbleSort of every fifth element repeating set size 100000 : 11.527  Seconds
+The run time for BubbleSort of randomly generated set 1 size 100000 : 13.275  Seconds
+The run time for BubbleSort of randomly generated set 2 size 100000 : 12.953  Seconds
+The run time for BubbleSort of randomly generated set 3 size 100000 : 14.473  Seconds
+The run time for BubbleSort of randomly generated set 4 size 100000 : 14.452  Seconds
+The run time for BubbleSort of randomly generated set 5 size 100000 : 14.443 Seconds
+
+ 
+ The Current Run Count is : 1 
+
+The run time for BubbleSort of every fifth element repeating set size 100000 : 11.552  Seconds
+The run time for BubbleSort of randomly generated set 1 size 100000 : 12.827  Seconds
+The run time for BubbleSort of randomly generated set 2 size 100000 : 13.092  Seconds
+The run time for BubbleSort of randomly generated set 3 size 100000 : 12.304  Seconds
+The run time for BubbleSort of randomly generated set 4 size 100000 : 14.549  Seconds
+The run time for BubbleSort of randomly generated set 5 size 100000 : 14.671 Seconds
+
+ 
+ The Current Run Count is : 2 
+
+The run time for BubbleSort of every fifth element repeating set size 100000 : 11.772  Seconds
+The run time for BubbleSort of randomly generated set 1 size 100000 : 13.784  Seconds
+The run time for BubbleSort of randomly generated set 2 size 100000 : 14.356  Seconds
+The run time for BubbleSort of randomly generated set 3 size 100000 : 14.713  Seconds
+The run time for BubbleSort of randomly generated set 4 size 100000 : 14.597  Seconds
+The run time for BubbleSort of randomly generated set 5 size 100000 : 14.515 Seconds
+
+ 
+ The Current Run Count is : 3 
+
+The run time for BubbleSort of every fifth element repeating set size 100000 : 11.608  Seconds
+The run time for BubbleSort of randomly generated set 1 size 100000 : 12.719  Seconds
+The run time for BubbleSort of randomly generated set 2 size 100000 : 14.086  Seconds
+The run time for BubbleSort of randomly generated set 3 size 100000 : 14.471  Seconds
+The run time for BubbleSort of randomly generated set 4 size 100000 : 14.458  Seconds
+The run time for BubbleSort of randomly generated set 5 size 100000 : 14.475 Seconds
+
+ 
+ The Current Run Count is : 4 
+
+The run time for BubbleSort of every fifth element repeating set size 100000 : 11.584  Seconds
+The run time for BubbleSort of randomly generated set 1 size 100000 : 13.615  Seconds
+The run time for BubbleSort of randomly generated set 2 size 100000 : 14.201  Seconds
+The run time for BubbleSort of randomly generated set 3 size 100000 : 14.499  Seconds
+The run time for BubbleSort of randomly generated set 4 size 100000 : 14.506  Seconds
+The run time for BubbleSort of randomly generated set 5 size 100000 : 14.727 Seconds
+
+ 
+ The Current Run Count is : 5 
+
+The run time for BubbleSort of every fifth element repeating set size 100000 : 11.777  Seconds
+The run time for BubbleSort of randomly generated set 1 size 100000 : 12.870  Seconds
+The run time for BubbleSort of randomly generated set 2 size 100000 : 14.275  Seconds
+The run time for BubbleSort of randomly generated set 3 size 100000 : 14.624  Seconds
+The run time for BubbleSort of randomly generated set 4 size 100000 : 14.593  Seconds
+The run time for BubbleSort of randomly generated set 5 size 100000 : 14.628 Seconds
+
+ 
+ The Current Run Count is : 6 
+
+The run time for BubbleSort of every fifth element repeating set size 100000 : 11.703  Seconds
+The run time for BubbleSort of randomly generated set 1 size 100000 : 13.669  Seconds
+The run time for BubbleSort of randomly generated set 2 size 100000 : 14.243  Seconds
+The run time for BubbleSort of randomly generated set 3 size 100000 : 14.588  Seconds
+The run time for BubbleSort of randomly generated set 4 size 100000 : 14.539  Seconds
+The run time for BubbleSort of randomly generated set 5 size 100000 : 14.528 Seconds
+
+ 
+ The Current Run Count is : 7 
+
+The run time for BubbleSort of every fifth element repeating set size 100000 : 11.620  Seconds
+The run time for BubbleSort of randomly generated set 1 size 100000 : 12.732  Seconds
+The run time for BubbleSort of randomly generated set 2 size 100000 : 14.168  Seconds
+The run time for BubbleSort of randomly generated set 3 size 100000 : 14.547  Seconds
+The run time for BubbleSort of randomly generated set 4 size 100000 : 14.580  Seconds
+The run time for BubbleSort of randomly generated set 5 size 100000 : 14.638 Seconds
+
+ 
+ The Current Run Count is : 8 
+
+The run time for BubbleSort of every fifth element repeating set size 100000 : 11.616  Seconds
+The run time for BubbleSort of randomly generated set 1 size 100000 : 13.669  Seconds
+The run time for BubbleSort of randomly generated set 2 size 100000 : 14.244  Seconds
+The run time for BubbleSort of randomly generated set 3 size 100000 : 14.594  Seconds
+The run time for BubbleSort of randomly generated set 4 size 100000 : 14.538  Seconds
+The run time for BubbleSort of randomly generated set 5 size 100000 : 14.569 Seconds
+
+ 
+ The Current Run Count is : 9 
+
+
+ 
+ 
+The run time for SelectionSort of Ascensing order set size 100000 : 47.394  Seconds
+The run time for SelectionSort of Descending order set size 100000 : 3.241  Seconds
+The run time for SelectionSort of Repeating set size 100000 : 3.228  Seconds
+The run time for SelectionSort of Every other element repeating set size 100000 : 3.234  Seconds
+The run time for SelectionSort of every fifth element repeating set size 100000 : 3.242  Seconds
+The run time for SelectionSort of randomly generated set 1 size 100000 : 3.252  Seconds
+The run time for SelectionSort of randomly generated set 2 size 100000 : 3.252  Seconds
+The run time for SelectionSort of randomly generated set 3 size 100000 : 3.247  Seconds
+The run time for SelectionSort of randomly generated set 4 size 100000 : 3.235  Seconds
+The run time for SelectionSort of randomly generated set 5 size 100000 : 3.246  Seconds
+
+ 
+ The Current Run Count is : 0 
+
+The run time for SelectionSort of every fifth element repeating set size 100000 : 3.227  Seconds
+The run time for SelectionSort of randomly generated set 1 size 100000 : 3.230  Seconds
+The run time for SelectionSort of randomly generated set 2 size 100000 : 3.223  Seconds
+The run time for SelectionSort of randomly generated set 3 size 100000 : 3.242  Seconds
+The run time for SelectionSort of randomly generated set 4 size 100000 : 3.235  Seconds
+The run time for SelectionSort of randomly generated set 5 size 100000 : 3.237  Seconds
+
+ 
+ The Current Run Count is : 1 
+
+The run time for SelectionSort of every fifth element repeating set size 100000 : 3.235  Seconds
+The run time for SelectionSort of randomly generated set 1 size 100000 : 3.237  Seconds
+The run time for SelectionSort of randomly generated set 2 size 100000 : 3.243  Seconds
+The run time for SelectionSort of randomly generated set 3 size 100000 : 3.234  Seconds
+The run time for SelectionSort of randomly generated set 4 size 100000 : 3.234  Seconds
+The run time for SelectionSort of randomly generated set 5 size 100000 : 3.226  Seconds
+
+ 
+ The Current Run Count is : 2 
+
+The run time for SelectionSort of every fifth element repeating set size 100000 : 3.244  Seconds
+The run time for SelectionSort of randomly generated set 1 size 100000 : 3.245  Seconds
+The run time for SelectionSort of randomly generated set 2 size 100000 : 3.253  Seconds
+The run time for SelectionSort of randomly generated set 3 size 100000 : 3.258  Seconds
+The run time for SelectionSort of randomly generated set 4 size 100000 : 3.254  Seconds
+The run time for SelectionSort of randomly generated set 5 size 100000 : 3.244  Seconds
+
+ 
+ The Current Run Count is : 3 
+
+The run time for SelectionSort of every fifth element repeating set size 100000 : 3.223  Seconds
+The run time for SelectionSort of randomly generated set 1 size 100000 : 3.231  Seconds
+The run time for SelectionSort of randomly generated set 2 size 100000 : 3.231  Seconds
+The run time for SelectionSort of randomly generated set 3 size 100000 : 3.233  Seconds
+The run time for SelectionSort of randomly generated set 4 size 100000 : 3.249  Seconds
+The run time for SelectionSort of randomly generated set 5 size 100000 : 3.234  Seconds
+
+ 
+ The Current Run Count is : 4 
+
+The run time for SelectionSort of every fifth element repeating set size 100000 : 3.243  Seconds
+The run time for SelectionSort of randomly generated set 1 size 100000 : 3.245  Seconds
+The run time for SelectionSort of randomly generated set 2 size 100000 : 3.242  Seconds
+The run time for SelectionSort of randomly generated set 3 size 100000 : 3.240  Seconds
+The run time for SelectionSort of randomly generated set 4 size 100000 : 3.246  Seconds
+The run time for SelectionSort of randomly generated set 5 size 100000 : 3.249  Seconds
+
+ 
+ The Current Run Count is : 5 
+
+The run time for SelectionSort of every fifth element repeating set size 100000 : 3.243  Seconds
+The run time for SelectionSort of randomly generated set 1 size 100000 : 3.248  Seconds
+The run time for SelectionSort of randomly generated set 2 size 100000 : 3.250  Seconds
+The run time for SelectionSort of randomly generated set 3 size 100000 : 3.251  Seconds
+The run time for SelectionSort of randomly generated set 4 size 100000 : 3.253  Seconds
+The run time for SelectionSort of randomly generated set 5 size 100000 : 3.249  Seconds
+
+ 
+ The Current Run Count is : 6 
+
+The run time for SelectionSort of every fifth element repeating set size 100000 : 3.235  Seconds
+The run time for SelectionSort of randomly generated set 1 size 100000 : 3.256  Seconds
+The run time for SelectionSort of randomly generated set 2 size 100000 : 3.248  Seconds
+The run time for SelectionSort of randomly generated set 3 size 100000 : 3.251  Seconds
+The run time for SelectionSort of randomly generated set 4 size 100000 : 3.240  Seconds
+The run time for SelectionSort of randomly generated set 5 size 100000 : 3.263  Seconds
+
+ 
+ The Current Run Count is : 7 
+
+The run time for SelectionSort of every fifth element repeating set size 100000 : 3.253  Seconds
+The run time for SelectionSort of randomly generated set 1 size 100000 : 3.258  Seconds
+The run time for SelectionSort of randomly generated set 2 size 100000 : 3.259  Seconds
+The run time for SelectionSort of randomly generated set 3 size 100000 : 3.284  Seconds
+The run time for SelectionSort of randomly generated set 4 size 100000 : 3.268  Seconds
+The run time for SelectionSort of randomly generated set 5 size 100000 : 3.258  Seconds
+
+ 
+ The Current Run Count is : 8 
+
+The run time for SelectionSort of every fifth element repeating set size 100000 : 3.241  Seconds
+The run time for SelectionSort of randomly generated set 1 size 100000 : 3.243  Seconds
+The run time for SelectionSort of randomly generated set 2 size 100000 : 3.258  Seconds
+The run time for SelectionSort of randomly generated set 3 size 100000 : 3.248  Seconds
+The run time for SelectionSort of randomly generated set 4 size 100000 : 3.248  Seconds
+The run time for SelectionSort of randomly generated set 5 size 100000 : 3.254  Seconds
+
+ 
+ The Current Run Count is : 9 
+
+
+ 
+ 
+The run time for InsertionSort of Ascensing order set size 100000 :  32.823 Seconds
+The run time for InsertionSort of Descending order set size 100000 :  0.000  Seconds
+The run time for InsertionSort of Repeating set size 100000 :  0.000  Secondss
+The run time for InsertionSort of Every other element repeating set size 100000 :  0.000  Seconds
+The run time for InsertionSort of every fifth element repeating set size 100000 :  1.588  Seconds
+The run time for InsertionSort of randomly generated set 1 size 100000 :  1.731  Seconds
+The run time for InsertionSort of randomly generated set 2 size 100000 :  1.667  Seconds
+The run time for InsertionSort of randomly generated set 3 size 100000 :  1.615  Seconds
+The run time for InsertionSort of randomly generated set 4 size 100000 :  1.616  Seconds
+The run time for InsertionSort of randomly generated set 5 size 100000 :  1.610 Seconds
+
+ 
+ The Current Run Count is : 0 
+
+The run time for InsertionSort of every fifth element repeating set size 100000 :  1.549  Seconds
+The run time for InsertionSort of randomly generated set 1 size 100000 :  1.727  Seconds
+The run time for InsertionSort of randomly generated set 2 size 100000 :  1.663  Seconds
+The run time for InsertionSort of randomly generated set 3 size 100000 :  1.619  Seconds
+The run time for InsertionSort of randomly generated set 4 size 100000 :  1.634  Seconds
+The run time for InsertionSort of randomly generated set 5 size 100000 :  1.617 Seconds
+
+ 
+ The Current Run Count is : 1 
+
+The run time for InsertionSort of every fifth element repeating set size 100000 :  1.552  Seconds
+The run time for InsertionSort of randomly generated set 1 size 100000 :  1.729  Seconds
+The run time for InsertionSort of randomly generated set 2 size 100000 :  1.677  Seconds
+The run time for InsertionSort of randomly generated set 3 size 100000 :  1.619  Seconds
+The run time for InsertionSort of randomly generated set 4 size 100000 :  1.614  Seconds
+The run time for InsertionSort of randomly generated set 5 size 100000 :  1.614 Seconds
+
+ 
+ The Current Run Count is : 2 
+
+The run time for InsertionSort of every fifth element repeating set size 100000 :  1.546  Seconds
+The run time for InsertionSort of randomly generated set 1 size 100000 :  1.720  Seconds
+The run time for InsertionSort of randomly generated set 2 size 100000 :  1.703  Seconds
+The run time for InsertionSort of randomly generated set 3 size 100000 :  1.633  Seconds
+The run time for InsertionSort of randomly generated set 4 size 100000 :  1.614  Seconds
+The run time for InsertionSort of randomly generated set 5 size 100000 :  1.625 Seconds
+
+ 
+ The Current Run Count is : 3 
+
+The run time for InsertionSort of every fifth element repeating set size 100000 :  1.545  Seconds
+The run time for InsertionSort of randomly generated set 1 size 100000 :  1.723  Seconds
+The run time for InsertionSort of randomly generated set 2 size 100000 :  1.663  Seconds
+The run time for InsertionSort of randomly generated set 3 size 100000 :  1.619  Seconds
+The run time for InsertionSort of randomly generated set 4 size 100000 :  1.614  Seconds
+The run time for InsertionSort of randomly generated set 5 size 100000 :  1.629 Seconds
+
+ 
+ The Current Run Count is : 4 
+
+The run time for InsertionSort of every fifth element repeating set size 100000 :  1.541  Seconds
+The run time for InsertionSort of randomly generated set 1 size 100000 :  1.712  Seconds
+The run time for InsertionSort of randomly generated set 2 size 100000 :  1.660  Seconds
+The run time for InsertionSort of randomly generated set 3 size 100000 :  1.614  Seconds
+The run time for InsertionSort of randomly generated set 4 size 100000 :  1.623  Seconds
+The run time for InsertionSort of randomly generated set 5 size 100000 :  1.614 Seconds
+
+ 
+ The Current Run Count is : 5 
+
+The run time for InsertionSort of every fifth element repeating set size 100000 :  1.550  Seconds
+The run time for InsertionSort of randomly generated set 1 size 100000 :  1.731  Seconds
+The run time for InsertionSort of randomly generated set 2 size 100000 :  1.662  Seconds
+The run time for InsertionSort of randomly generated set 3 size 100000 :  1.622  Seconds
+The run time for InsertionSort of randomly generated set 4 size 100000 :  1.613  Seconds
+The run time for InsertionSort of randomly generated set 5 size 100000 :  1.608 Seconds
+
+ 
+ The Current Run Count is : 6 
+
+The run time for InsertionSort of every fifth element repeating set size 100000 :  1.556  Seconds
+The run time for InsertionSort of randomly generated set 1 size 100000 :  1.717  Seconds
+The run time for InsertionSort of randomly generated set 2 size 100000 :  1.655  Seconds
+The run time for InsertionSort of randomly generated set 3 size 100000 :  1.622  Seconds
+The run time for InsertionSort of randomly generated set 4 size 100000 :  1.614  Seconds
+The run time for InsertionSort of randomly generated set 5 size 100000 :  1.614 Seconds
+
+ 
+ The Current Run Count is : 7 
+
+The run time for InsertionSort of every fifth element repeating set size 100000 :  1.544  Seconds
+The run time for InsertionSort of randomly generated set 1 size 100000 :  1.723  Seconds
+The run time for InsertionSort of randomly generated set 2 size 100000 :  1.660  Seconds
+The run time for InsertionSort of randomly generated set 3 size 100000 :  1.614  Seconds
+The run time for InsertionSort of randomly generated set 4 size 100000 :  1.613  Seconds
+The run time for InsertionSort of randomly generated set 5 size 100000 :  1.608 Seconds
+
+ 
+ The Current Run Count is : 8 
+
+The run time for InsertionSort of every fifth element repeating set size 100000 :  1.542  Seconds
+The run time for InsertionSort of randomly generated set 1 size 100000 :  1.712  Seconds
+The run time for InsertionSort of randomly generated set 2 size 100000 :  1.658  Seconds
+The run time for InsertionSort of randomly generated set 3 size 100000 :  1.614  Seconds
+The run time for InsertionSort of randomly generated set 4 size 100000 :  1.622  Seconds
+The run time for InsertionSort of randomly generated set 5 size 100000 :  1.617 Seconds
+
+ 
+ The Current Run Count is : 9 
+
+
+ 
+ 
+The run time for MergeSort of Ascensing order set size 100000 :  31.042  Seconds
+The run time for MergeSort of Descending order set size 100000 :  0.016  Seconds
+The run time for MergeSort of Repeating set size 100000 :  0.014 Seconds
+The run time for MergeSort of Every other element repeating set size 100000 :  0.012  Seconds
+The run time for MergeSort of every fifth element repeating set size 100000 :  0.021  Seconds
+The run time for MergeSort of randomly generated set 1 size 100000 :  0.023  Seconds
+The run time for MergeSort of randomly generated set 2 size 100000 :  0.021  Seconds
+The run time for MergeSort of randomly generated set 3 size 100000 :  0.023 Seconds
+The run time for MergeSort of randomly generated set 4 size 100000 :  0.017  Seconds
+The run time for MergeSort of randomly generated set 5 size 100000 :  0.023  Seconds
+
+ 
+ The Current Run Count is : 0 
+
+The run time for MergeSort of every fifth element repeating set size 100000 :  0.015  Seconds
+The run time for MergeSort of randomly generated set 1 size 100000 :  0.021  Seconds
+The run time for MergeSort of randomly generated set 2 size 100000 :  0.023  Seconds
+The run time for MergeSort of randomly generated set 3 size 100000 :  0.018 Seconds
+The run time for MergeSort of randomly generated set 4 size 100000 :  0.028  Seconds
+The run time for MergeSort of randomly generated set 5 size 100000 :  0.017  Seconds
+
+ 
+ The Current Run Count is : 1 
+
+The run time for MergeSort of every fifth element repeating set size 100000 :  0.015  Seconds
+The run time for MergeSort of randomly generated set 1 size 100000 :  0.025  Seconds
+The run time for MergeSort of randomly generated set 2 size 100000 :  0.020  Seconds
+The run time for MergeSort of randomly generated set 3 size 100000 :  0.016 Seconds
+The run time for MergeSort of randomly generated set 4 size 100000 :  0.018  Seconds
+The run time for MergeSort of randomly generated set 5 size 100000 :  0.016  Seconds
+
+ 
+ The Current Run Count is : 2 
+
+The run time for MergeSort of every fifth element repeating set size 100000 :  0.015  Seconds
+The run time for MergeSort of randomly generated set 1 size 100000 :  0.022  Seconds
+The run time for MergeSort of randomly generated set 2 size 100000 :  0.021  Seconds
+The run time for MergeSort of randomly generated set 3 size 100000 :  0.017 Seconds
+The run time for MergeSort of randomly generated set 4 size 100000 :  0.021  Seconds
+The run time for MergeSort of randomly generated set 5 size 100000 :  0.022  Seconds
+
+ 
+ The Current Run Count is : 3 
+
+The run time for MergeSort of every fifth element repeating set size 100000 :  0.015  Seconds
+The run time for MergeSort of randomly generated set 1 size 100000 :  0.021  Seconds
+The run time for MergeSort of randomly generated set 2 size 100000 :  0.021  Seconds
+The run time for MergeSort of randomly generated set 3 size 100000 :  0.020 Seconds
+The run time for MergeSort of randomly generated set 4 size 100000 :  0.022  Seconds
+The run time for MergeSort of randomly generated set 5 size 100000 :  0.016  Seconds
+
+ 
+ The Current Run Count is : 4 
+
+The run time for MergeSort of every fifth element repeating set size 100000 :  0.014  Seconds
+The run time for MergeSort of randomly generated set 1 size 100000 :  0.021  Seconds
+The run time for MergeSort of randomly generated set 2 size 100000 :  0.028  Seconds
+The run time for MergeSort of randomly generated set 3 size 100000 :  0.020 Seconds
+The run time for MergeSort of randomly generated set 4 size 100000 :  0.022  Seconds
+The run time for MergeSort of randomly generated set 5 size 100000 :  0.022  Seconds
+
+ 
+ The Current Run Count is : 5 
+
+The run time for MergeSort of every fifth element repeating set size 100000 :  0.015  Seconds
+The run time for MergeSort of randomly generated set 1 size 100000 :  0.021  Seconds
+The run time for MergeSort of randomly generated set 2 size 100000 :  0.020  Seconds
+The run time for MergeSort of randomly generated set 3 size 100000 :  0.016 Seconds
+The run time for MergeSort of randomly generated set 4 size 100000 :  0.018  Seconds
+The run time for MergeSort of randomly generated set 5 size 100000 :  0.021  Seconds
+
+ 
+ The Current Run Count is : 6 
+
+The run time for MergeSort of every fifth element repeating set size 100000 :  0.014  Seconds
+The run time for MergeSort of randomly generated set 1 size 100000 :  0.023  Seconds
+The run time for MergeSort of randomly generated set 2 size 100000 :  0.025  Seconds
+The run time for MergeSort of randomly generated set 3 size 100000 :  0.023 Seconds
+The run time for MergeSort of randomly generated set 4 size 100000 :  0.016  Seconds
+The run time for MergeSort of randomly generated set 5 size 100000 :  0.018  Seconds
+
+ 
+ The Current Run Count is : 7 
+
+The run time for MergeSort of every fifth element repeating set size 100000 :  0.014  Seconds
+The run time for MergeSort of randomly generated set 1 size 100000 :  0.020  Seconds
+The run time for MergeSort of randomly generated set 2 size 100000 :  0.016  Seconds
+The run time for MergeSort of randomly generated set 3 size 100000 :  0.018 Seconds
+The run time for MergeSort of randomly generated set 4 size 100000 :  0.019  Seconds
+The run time for MergeSort of randomly generated set 5 size 100000 :  0.027  Seconds
+
+ 
+ The Current Run Count is : 8 
+
+The run time for MergeSort of every fifth element repeating set size 100000 :  0.015  Seconds
+The run time for MergeSort of randomly generated set 1 size 100000 :  0.022  Seconds
+The run time for MergeSort of randomly generated set 2 size 100000 :  0.024  Seconds
+The run time for MergeSort of randomly generated set 3 size 100000 :  0.016 Seconds
+The run time for MergeSort of randomly generated set 4 size 100000 :  0.023  Seconds
+The run time for MergeSort of randomly generated set 5 size 100000 :  0.018  Seconds
+
+ 
+ The Current Run Count is : 9 
+
+
+ 
+ 
+The run time for QuickSort of Ascending order set size 100000 : 34.044  Seconds
+The run time for QuickSort of Descending order set size 100000 : 4.476  Seconds
+The run time for QuickSort of Repeating set size 100000 : 4.512  Seconds
+The run time for QuickSort of Every other element repeating set size 100000 : 4.533  Seconds
+The run time for QuickSort of every fifth element repeating set size 100000 : 0.192  Seconds
+The run time for QuickSort of randomly generated set 1 size 100000 : 0.008  Seconds
+The run time for QuickSort of randomly generated set 2 size 100000 : 0.013  Seconds
+The run time for QuickSort of randomly generated set 3 size 100000 : 0.014  Seconds
+The run time for QuickSort of randomly generated set 4 size 100000 : 0.016  Seconds
+The run time for QuickSort of randomly generated set 5 size 100000 : 0.008  Seconds
+
+ 
+ The Current Run Count is : 0 
+
+The run time for QuickSort of every fifth element repeating set size 100000 : 0.186  Seconds
+The run time for QuickSort of randomly generated set 1 size 100000 : 0.007  Seconds
+The run time for QuickSort of randomly generated set 2 size 100000 : 0.014  Seconds
+The run time for QuickSort of randomly generated set 3 size 100000 : 0.014  Seconds
+The run time for QuickSort of randomly generated set 4 size 100000 : 0.007  Seconds
+The run time for QuickSort of randomly generated set 5 size 100000 : 0.015  Seconds
+
+ 
+ The Current Run Count is : 1 
+
+The run time for QuickSort of every fifth element repeating set size 100000 : 0.184  Seconds
+The run time for QuickSort of randomly generated set 1 size 100000 : 0.008  Seconds
+The run time for QuickSort of randomly generated set 2 size 100000 : 0.013  Seconds
+The run time for QuickSort of randomly generated set 3 size 100000 : 0.008  Seconds
+The run time for QuickSort of randomly generated set 4 size 100000 : 0.008  Seconds
+The run time for QuickSort of randomly generated set 5 size 100000 : 0.012  Seconds
+
+ 
+ The Current Run Count is : 2 
+
+The run time for QuickSort of every fifth element repeating set size 100000 : 0.185  Seconds
+The run time for QuickSort of randomly generated set 1 size 100000 : 0.007  Seconds
+The run time for QuickSort of randomly generated set 2 size 100000 : 0.013  Seconds
+The run time for QuickSort of randomly generated set 3 size 100000 : 0.008  Seconds
+The run time for QuickSort of randomly generated set 4 size 100000 : 0.013  Seconds
+The run time for QuickSort of randomly generated set 5 size 100000 : 0.015  Seconds
+
+ 
+ The Current Run Count is : 3 
+
+The run time for QuickSort of every fifth element repeating set size 100000 : 0.190  Seconds
+The run time for QuickSort of randomly generated set 1 size 100000 : 0.014  Seconds
+The run time for QuickSort of randomly generated set 2 size 100000 : 0.014  Seconds
+The run time for QuickSort of randomly generated set 3 size 100000 : 0.008  Seconds
+The run time for QuickSort of randomly generated set 4 size 100000 : 0.007  Seconds
+The run time for QuickSort of randomly generated set 5 size 100000 : 0.016  Seconds
+
+ 
+ The Current Run Count is : 4 
+
+The run time for QuickSort of every fifth element repeating set size 100000 : 0.184  Seconds
+The run time for QuickSort of randomly generated set 1 size 100000 : 0.013  Seconds
+The run time for QuickSort of randomly generated set 2 size 100000 : 0.014  Seconds
+The run time for QuickSort of randomly generated set 3 size 100000 : 0.012  Seconds
+The run time for QuickSort of randomly generated set 4 size 100000 : 0.008  Seconds
+The run time for QuickSort of randomly generated set 5 size 100000 : 0.014  Seconds
+
+ 
+ The Current Run Count is : 5 
+
+The run time for QuickSort of every fifth element repeating set size 100000 : 0.183  Seconds
+The run time for QuickSort of randomly generated set 1 size 100000 : 0.013  Seconds
+The run time for QuickSort of randomly generated set 2 size 100000 : 0.014  Seconds
+The run time for QuickSort of randomly generated set 3 size 100000 : 0.014  Seconds
+The run time for QuickSort of randomly generated set 4 size 100000 : 0.008  Seconds
+The run time for QuickSort of randomly generated set 5 size 100000 : 0.007  Seconds
+
+ 
+ The Current Run Count is : 6 
+
+The run time for QuickSort of every fifth element repeating set size 100000 : 0.184  Seconds
+The run time for QuickSort of randomly generated set 1 size 100000 : 0.008  Seconds
+The run time for QuickSort of randomly generated set 2 size 100000 : 0.013  Seconds
+The run time for QuickSort of randomly generated set 3 size 100000 : 0.013  Seconds
+The run time for QuickSort of randomly generated set 4 size 100000 : 0.013  Seconds
+The run time for QuickSort of randomly generated set 5 size 100000 : 0.007  Seconds
+
+ 
+ The Current Run Count is : 7 
+
+The run time for QuickSort of every fifth element repeating set size 100000 : 0.185  Seconds
+The run time for QuickSort of randomly generated set 1 size 100000 : 0.013  Seconds
+The run time for QuickSort of randomly generated set 2 size 100000 : 0.014  Seconds
+The run time for QuickSort of randomly generated set 3 size 100000 : 0.013  Seconds
+The run time for QuickSort of randomly generated set 4 size 100000 : 0.014  Seconds
+The run time for QuickSort of randomly generated set 5 size 100000 : 0.008  Seconds
+
+ 
+ The Current Run Count is : 8 
+
+The run time for QuickSort of every fifth element repeating set size 100000 : 0.184  Seconds
+The run time for QuickSort of randomly generated set 1 size 100000 : 0.013  Seconds
+The run time for QuickSort of randomly generated set 2 size 100000 : 0.008  Seconds
+The run time for QuickSort of randomly generated set 3 size 100000 : 0.012  Seconds
+The run time for QuickSort of randomly generated set 4 size 100000 : 0.014  Seconds
+The run time for QuickSort of randomly generated set 5 size 100000 : 0.013  Seconds
+
+ 
+ The Current Run Count is : 9 
+
+The run time for BubbleSort of Ascensing order set size 500000 : 51.402  Seconds
+The run time for BubbleSort of Descending order set size 500000 : 95.328 Seconds
+The run time for BubbleSort of Repeating set size 500000 : 52.426  Seconds
+The run time for BubbleSort of Every other element repeating set size 500000 : 127.981  Seconds
+The run time for BubbleSort of every fifth element repeating set size 500000 : 300.438  Seconds
+The run time for BubbleSort of randomly generated set 1 size 500000 : 368.549  Seconds
+The run time for BubbleSort of randomly generated set 2 size 500000 : 367.425  Seconds
+The run time for BubbleSort of randomly generated set 3 size 500000 : 366.544  Seconds
+The run time for BubbleSort of randomly generated set 4 size 500000 : 365.458  Seconds
+The run time for BubbleSort of randomly generated set 5 size 500000 : 364.142 Seconds
+
+ 
+ The Current Run Count is : 0 
+
+The run time for BubbleSort of every fifth element repeating set size 500000 : 294.969  Seconds
+The run time for BubbleSort of randomly generated set 1 size 500000 : 334.761  Seconds
+The run time for BubbleSort of randomly generated set 2 size 500000 : 332.141  Seconds
+The run time for BubbleSort of randomly generated set 3 size 500000 : 366.004  Seconds
+The run time for BubbleSort of randomly generated set 4 size 500000 : 366.338  Seconds
+The run time for BubbleSort of randomly generated set 5 size 500000 : 366.437 Seconds
+
+ 
+ The Current Run Count is : 1 
+
+The run time for BubbleSort of every fifth element repeating set size 500000 : 295.546  Seconds
+The run time for BubbleSort of randomly generated set 1 size 500000 : 319.219  Seconds
+The run time for BubbleSort of randomly generated set 2 size 500000 : 324.657  Seconds
+The run time for BubbleSort of randomly generated set 3 size 500000 : 303.825  Seconds
+The run time for BubbleSort of randomly generated set 4 size 500000 : 363.851  Seconds
+The run time for BubbleSort of randomly generated set 5 size 500000 : 364.943 Seconds
+
+ 
+ The Current Run Count is : 2 
+
+The run time for BubbleSort of every fifth element repeating set size 500000 : 295.732  Seconds
+The run time for BubbleSort of randomly generated set 1 size 500000 : 344.640  Seconds
+The run time for BubbleSort of randomly generated set 2 size 500000 : 356.038  Seconds
+The run time for BubbleSort of randomly generated set 3 size 500000 : 366.859  Seconds
+The run time for BubbleSort of randomly generated set 4 size 500000 : 364.407  Seconds
+The run time for BubbleSort of randomly generated set 5 size 500000 : 363.219 Seconds
+
+ 
+ The Current Run Count is : 3 
+
+The run time for BubbleSort of every fifth element repeating set size 500000 : 297.033  Seconds
+The run time for BubbleSort of randomly generated set 1 size 500000 : 316.445  Seconds
+The run time for BubbleSort of randomly generated set 2 size 500000 : 352.277  Seconds
+The run time for BubbleSort of randomly generated set 3 size 500000 : 369.956  Seconds
+The run time for BubbleSort of randomly generated set 4 size 500000 : 370.176  Seconds
+The run time for BubbleSort of randomly generated set 5 size 500000 : 369.886 Seconds
+
+ 
+ The Current Run Count is : 4 
+
+The run time for BubbleSort of every fifth element repeating set size 500000 : 301.525  Seconds
+The run time for BubbleSort of randomly generated set 1 size 500000 : 348.864  Seconds
+The run time for BubbleSort of randomly generated set 2 size 500000 : 360.530  Seconds
+The run time for BubbleSort of randomly generated set 3 size 500000 : 368.112  Seconds
+The run time for BubbleSort of randomly generated set 4 size 500000 : 364.993  Seconds
+The run time for BubbleSort of randomly generated set 5 size 500000 : 364.788 Seconds
+
+ 
+ The Current Run Count is : 5 
+
+The run time for BubbleSort of every fifth element repeating set size 500000 : 299.025  Seconds
+The run time for BubbleSort of randomly generated set 1 size 500000 : 327.657  Seconds
+The run time for BubbleSort of randomly generated set 2 size 500000 : 353.290  Seconds
+The run time for BubbleSort of randomly generated set 3 size 500000 : 366.057  Seconds
+The run time for BubbleSort of randomly generated set 4 size 500000 : 369.067  Seconds
+The run time for BubbleSort of randomly generated set 5 size 500000 : 366.233 Seconds
+
+ 
+ The Current Run Count is : 6 
+
+The run time for BubbleSort of every fifth element repeating set size 500000 : 299.817  Seconds
+The run time for BubbleSort of randomly generated set 1 size 500000 : 346.041  Seconds
+The run time for BubbleSort of randomly generated set 2 size 500000 : 355.146  Seconds
+The run time for BubbleSort of randomly generated set 3 size 500000 : 365.486  Seconds
+The run time for BubbleSort of randomly generated set 4 size 500000 : 367.339  Seconds
+The run time for BubbleSort of randomly generated set 5 size 500000 : 366.008 Seconds
+
+ 
+ The Current Run Count is : 7 
+
+The run time for BubbleSort of every fifth element repeating set size 500000 : 296.221  Seconds
+The run time for BubbleSort of randomly generated set 1 size 500000 : 315.089  Seconds
+The run time for BubbleSort of randomly generated set 2 size 500000 : 348.488  Seconds
+The run time for BubbleSort of randomly generated set 3 size 500000 : 362.078  Seconds
+The run time for BubbleSort of randomly generated set 4 size 500000 : 364.767  Seconds
+The run time for BubbleSort of randomly generated set 5 size 500000 : 363.569 Seconds
+
+ 
+ The Current Run Count is : 8 
+
+The run time for BubbleSort of every fifth element repeating set size 500000 : 294.761  Seconds
+The run time for BubbleSort of randomly generated set 1 size 500000 : 351.339  Seconds
+The run time for BubbleSort of randomly generated set 2 size 500000 : 412.856  Seconds
+The run time for BubbleSort of randomly generated set 3 size 500000 : 364.667  Seconds
+The run time for BubbleSort of randomly generated set 4 size 500000 : 363.337  Seconds
+The run time for BubbleSort of randomly generated set 5 size 500000 : 363.045 Seconds
+
+ 
+ The Current Run Count is : 9 
+
+
+ 
+ 
+The run time for SelectionSort of Ascensing order set size 500000 : 1188.752  Seconds
+The run time for SelectionSort of Descending order set size 500000 : 81.224  Seconds
+The run time for SelectionSort of Repeating set size 500000 : 79.752  Seconds
+The run time for SelectionSort of Every other element repeating set size 500000 : 79.735  Seconds
+The run time for SelectionSort of every fifth element repeating set size 500000 : 81.219  Seconds
+The run time for SelectionSort of randomly generated set 1 size 500000 : 82.494  Seconds
+The run time for SelectionSort of randomly generated set 2 size 500000 : 82.467  Seconds
+The run time for SelectionSort of randomly generated set 3 size 500000 : 82.467  Seconds
+The run time for SelectionSort of randomly generated set 4 size 500000 : 82.522  Seconds
+The run time for SelectionSort of randomly generated set 5 size 500000 : 82.483  Seconds
+
+ 
+ The Current Run Count is : 0 
+
+The run time for SelectionSort of every fifth element repeating set size 500000 : 82.383  Seconds
+The run time for SelectionSort of randomly generated set 1 size 500000 : 82.627  Seconds
+The run time for SelectionSort of randomly generated set 2 size 500000 : 82.630  Seconds
+The run time for SelectionSort of randomly generated set 3 size 500000 : 82.440  Seconds
+The run time for SelectionSort of randomly generated set 4 size 500000 : 82.478  Seconds
+The run time for SelectionSort of randomly generated set 5 size 500000 : 82.491  Seconds
+
+ 
+ The Current Run Count is : 1 
+
